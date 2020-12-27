@@ -38284,5 +38284,14 @@
     "number": 25,
     "tweeted": true,
     "arc": "election2020"
+  },
+  {
+    "date": "2020-12-26",
+    "tweets": 30,
+    "day": "26",
+    "month": "2020-12",
+    "number": 26,
+    "tweeted": true,
+    "arc": "election2020"
   }
 ]
