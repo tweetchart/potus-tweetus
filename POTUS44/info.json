@@ -1,0 +1,23 @@
+{
+  "series_name": "POTUS44",
+  "ongoing": false,
+  "major_hiatus_threshold": 6,
+  "major_streak_threshold": 2,
+  "arcs": [
+
+    {
+      "key": "obama2",
+      "name": "Obama's Second Term"
+    },
+
+    {
+      "key": "election2016",
+      "name": "2016 Election and Transition"
+    },
+
+    {
+      "key": "trump",
+      "name": "Trump's Inauguration"
+    }
+  ]
+}

@@ -1,0 +1,5528 @@
+[
+  {
+    "date": "2015-05-18",
+    "tweets": 3,
+    "day": "05-18",
+    "month": "2015-05",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-19",
+    "tweets": 0,
+    "day": "05-19",
+    "month": "2015-05",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-20",
+    "tweets": 1,
+    "day": "05-20",
+    "month": "2015-05",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-21",
+    "tweets": 0,
+    "day": "05-21",
+    "month": "2015-05",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-22",
+    "tweets": 2,
+    "day": "05-22",
+    "month": "2015-05",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-23",
+    "tweets": 0,
+    "day": "05-23",
+    "month": "2015-05",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-24",
+    "tweets": 0,
+    "day": "05-24",
+    "month": "2015-05",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-25",
+    "tweets": 1,
+    "day": "05-25",
+    "month": "2015-05",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-26",
+    "tweets": 0,
+    "day": "05-26",
+    "month": "2015-05",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-27",
+    "tweets": 0,
+    "day": "05-27",
+    "month": "2015-05",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-28",
+    "tweets": 20,
+    "day": "05-28",
+    "month": "2015-05",
+    "number": 28,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-29",
+    "tweets": 0,
+    "day": "05-29",
+    "month": "2015-05",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-30",
+    "tweets": 0,
+    "day": "05-30",
+    "month": "2015-05",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-05-31",
+    "tweets": 0,
+    "day": "05-31",
+    "month": "2015-05",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-01",
+    "tweets": 0,
+    "day": "06-01",
+    "month": "2015-06",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-02",
+    "tweets": 2,
+    "day": "06-02",
+    "month": "2015-06",
+    "number": 2,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-03",
+    "tweets": 1,
+    "day": "06-03",
+    "month": "2015-06",
+    "number": 3,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-04",
+    "tweets": 0,
+    "day": "06-04",
+    "month": "2015-06",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-05",
+    "tweets": 0,
+    "day": "06-05",
+    "month": "2015-06",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-06",
+    "tweets": 0,
+    "day": "06-06",
+    "month": "2015-06",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-07",
+    "tweets": 0,
+    "day": "06-07",
+    "month": "2015-06",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-08",
+    "tweets": 0,
+    "day": "06-08",
+    "month": "2015-06",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-09",
+    "tweets": 0,
+    "day": "06-09",
+    "month": "2015-06",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-10",
+    "tweets": 0,
+    "day": "06-10",
+    "month": "2015-06",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-11",
+    "tweets": 1,
+    "day": "06-11",
+    "month": "2015-06",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-12",
+    "tweets": 0,
+    "day": "06-12",
+    "month": "2015-06",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-13",
+    "tweets": 0,
+    "day": "06-13",
+    "month": "2015-06",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-14",
+    "tweets": 0,
+    "day": "06-14",
+    "month": "2015-06",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-15",
+    "tweets": 1,
+    "day": "06-15",
+    "month": "2015-06",
+    "number": 15,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-16",
+    "tweets": 2,
+    "day": "06-16",
+    "month": "2015-06",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-17",
+    "tweets": 1,
+    "day": "06-17",
+    "month": "2015-06",
+    "number": 17,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-18",
+    "tweets": 1,
+    "day": "06-18",
+    "month": "2015-06",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-19",
+    "tweets": 1,
+    "day": "06-19",
+    "month": "2015-06",
+    "number": 19,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-20",
+    "tweets": 3,
+    "day": "06-20",
+    "month": "2015-06",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-21",
+    "tweets": 0,
+    "day": "06-21",
+    "month": "2015-06",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-22",
+    "tweets": 1,
+    "day": "06-22",
+    "month": "2015-06",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-23",
+    "tweets": 0,
+    "day": "06-23",
+    "month": "2015-06",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-24",
+    "tweets": 0,
+    "day": "06-24",
+    "month": "2015-06",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-25",
+    "tweets": 6,
+    "day": "06-25",
+    "month": "2015-06",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-26",
+    "tweets": 2,
+    "day": "06-26",
+    "month": "2015-06",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-27",
+    "tweets": 0,
+    "day": "06-27",
+    "month": "2015-06",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-28",
+    "tweets": 0,
+    "day": "06-28",
+    "month": "2015-06",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-29",
+    "tweets": 0,
+    "day": "06-29",
+    "month": "2015-06",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-06-30",
+    "tweets": 2,
+    "day": "06-30",
+    "month": "2015-06",
+    "number": 30,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-01",
+    "tweets": 19,
+    "day": "07-01",
+    "month": "2015-07",
+    "number": 1,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-02",
+    "tweets": 0,
+    "day": "07-02",
+    "month": "2015-07",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-03",
+    "tweets": 0,
+    "day": "07-03",
+    "month": "2015-07",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-04",
+    "tweets": 2,
+    "day": "07-04",
+    "month": "2015-07",
+    "number": 4,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-05",
+    "tweets": 1,
+    "day": "07-05",
+    "month": "2015-07",
+    "number": 5,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-06",
+    "tweets": 0,
+    "day": "07-06",
+    "month": "2015-07",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-07",
+    "tweets": 0,
+    "day": "07-07",
+    "month": "2015-07",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-08",
+    "tweets": 0,
+    "day": "07-08",
+    "month": "2015-07",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-09",
+    "tweets": 0,
+    "day": "07-09",
+    "month": "2015-07",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-10",
+    "tweets": 1,
+    "day": "07-10",
+    "month": "2015-07",
+    "number": 10,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-11",
+    "tweets": 0,
+    "day": "07-11",
+    "month": "2015-07",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-12",
+    "tweets": 0,
+    "day": "07-12",
+    "month": "2015-07",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-13",
+    "tweets": 0,
+    "day": "07-13",
+    "month": "2015-07",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-14",
+    "tweets": 10,
+    "day": "07-14",
+    "month": "2015-07",
+    "number": 14,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-15",
+    "tweets": 0,
+    "day": "07-15",
+    "month": "2015-07",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-16",
+    "tweets": 0,
+    "day": "07-16",
+    "month": "2015-07",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-17",
+    "tweets": 2,
+    "day": "07-17",
+    "month": "2015-07",
+    "number": 17,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-18",
+    "tweets": 0,
+    "day": "07-18",
+    "month": "2015-07",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-19",
+    "tweets": 0,
+    "day": "07-19",
+    "month": "2015-07",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-20",
+    "tweets": 1,
+    "day": "07-20",
+    "month": "2015-07",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-21",
+    "tweets": 2,
+    "day": "07-21",
+    "month": "2015-07",
+    "number": 21,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-22",
+    "tweets": 0,
+    "day": "07-22",
+    "month": "2015-07",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-23",
+    "tweets": 0,
+    "day": "07-23",
+    "month": "2015-07",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-24",
+    "tweets": 1,
+    "day": "07-24",
+    "month": "2015-07",
+    "number": 24,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-25",
+    "tweets": 0,
+    "day": "07-25",
+    "month": "2015-07",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-26",
+    "tweets": 1,
+    "day": "07-26",
+    "month": "2015-07",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-27",
+    "tweets": 0,
+    "day": "07-27",
+    "month": "2015-07",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-28",
+    "tweets": 0,
+    "day": "07-28",
+    "month": "2015-07",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-29",
+    "tweets": 0,
+    "day": "07-29",
+    "month": "2015-07",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-30",
+    "tweets": 1,
+    "day": "07-30",
+    "month": "2015-07",
+    "number": 30,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-07-31",
+    "tweets": 1,
+    "day": "07-31",
+    "month": "2015-07",
+    "number": 31,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-01",
+    "tweets": 1,
+    "day": "08-01",
+    "month": "2015-08",
+    "number": 1,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-02",
+    "tweets": 0,
+    "day": "08-02",
+    "month": "2015-08",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-03",
+    "tweets": 7,
+    "day": "08-03",
+    "month": "2015-08",
+    "number": 3,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-04",
+    "tweets": 0,
+    "day": "08-04",
+    "month": "2015-08",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-05",
+    "tweets": 4,
+    "day": "08-05",
+    "month": "2015-08",
+    "number": 5,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-06",
+    "tweets": 4,
+    "day": "08-06",
+    "month": "2015-08",
+    "number": 6,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-07",
+    "tweets": 0,
+    "day": "08-07",
+    "month": "2015-08",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-08",
+    "tweets": 0,
+    "day": "08-08",
+    "month": "2015-08",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-09",
+    "tweets": 0,
+    "day": "08-09",
+    "month": "2015-08",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-10",
+    "tweets": 0,
+    "day": "08-10",
+    "month": "2015-08",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-11",
+    "tweets": 0,
+    "day": "08-11",
+    "month": "2015-08",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-12",
+    "tweets": 0,
+    "day": "08-12",
+    "month": "2015-08",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-13",
+    "tweets": 0,
+    "day": "08-13",
+    "month": "2015-08",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-14",
+    "tweets": 2,
+    "day": "08-14",
+    "month": "2015-08",
+    "number": 14,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-15",
+    "tweets": 0,
+    "day": "08-15",
+    "month": "2015-08",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-16",
+    "tweets": 0,
+    "day": "08-16",
+    "month": "2015-08",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-17",
+    "tweets": 0,
+    "day": "08-17",
+    "month": "2015-08",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-18",
+    "tweets": 0,
+    "day": "08-18",
+    "month": "2015-08",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-19",
+    "tweets": 0,
+    "day": "08-19",
+    "month": "2015-08",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-20",
+    "tweets": 1,
+    "day": "08-20",
+    "month": "2015-08",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-21",
+    "tweets": 0,
+    "day": "08-21",
+    "month": "2015-08",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-22",
+    "tweets": 0,
+    "day": "08-22",
+    "month": "2015-08",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-23",
+    "tweets": 0,
+    "day": "08-23",
+    "month": "2015-08",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-24",
+    "tweets": 0,
+    "day": "08-24",
+    "month": "2015-08",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-25",
+    "tweets": 1,
+    "day": "08-25",
+    "month": "2015-08",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-26",
+    "tweets": 0,
+    "day": "08-26",
+    "month": "2015-08",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-27",
+    "tweets": 1,
+    "day": "08-27",
+    "month": "2015-08",
+    "number": 27,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-28",
+    "tweets": 0,
+    "day": "08-28",
+    "month": "2015-08",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-29",
+    "tweets": 1,
+    "day": "08-29",
+    "month": "2015-08",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-30",
+    "tweets": 0,
+    "day": "08-30",
+    "month": "2015-08",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-08-31",
+    "tweets": 1,
+    "day": "08-31",
+    "month": "2015-08",
+    "number": 31,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-01",
+    "tweets": 0,
+    "day": "09-01",
+    "month": "2015-09",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-02",
+    "tweets": 0,
+    "day": "09-02",
+    "month": "2015-09",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-03",
+    "tweets": 1,
+    "day": "09-03",
+    "month": "2015-09",
+    "number": 3,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-04",
+    "tweets": 0,
+    "day": "09-04",
+    "month": "2015-09",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-05",
+    "tweets": 0,
+    "day": "09-05",
+    "month": "2015-09",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-06",
+    "tweets": 1,
+    "day": "09-06",
+    "month": "2015-09",
+    "number": 6,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-07",
+    "tweets": 0,
+    "day": "09-07",
+    "month": "2015-09",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-08",
+    "tweets": 0,
+    "day": "09-08",
+    "month": "2015-09",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-09",
+    "tweets": 0,
+    "day": "09-09",
+    "month": "2015-09",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-10",
+    "tweets": 1,
+    "day": "09-10",
+    "month": "2015-09",
+    "number": 10,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-11",
+    "tweets": 1,
+    "day": "09-11",
+    "month": "2015-09",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-12",
+    "tweets": 0,
+    "day": "09-12",
+    "month": "2015-09",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-13",
+    "tweets": 0,
+    "day": "09-13",
+    "month": "2015-09",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-14",
+    "tweets": 1,
+    "day": "09-14",
+    "month": "2015-09",
+    "number": 14,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-15",
+    "tweets": 7,
+    "day": "09-15",
+    "month": "2015-09",
+    "number": 15,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-16",
+    "tweets": 1,
+    "day": "09-16",
+    "month": "2015-09",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-17",
+    "tweets": 0,
+    "day": "09-17",
+    "month": "2015-09",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-18",
+    "tweets": 0,
+    "day": "09-18",
+    "month": "2015-09",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-19",
+    "tweets": 0,
+    "day": "09-19",
+    "month": "2015-09",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-20",
+    "tweets": 0,
+    "day": "09-20",
+    "month": "2015-09",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-21",
+    "tweets": 0,
+    "day": "09-21",
+    "month": "2015-09",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-22",
+    "tweets": 2,
+    "day": "09-22",
+    "month": "2015-09",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-23",
+    "tweets": 2,
+    "day": "09-23",
+    "month": "2015-09",
+    "number": 23,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-24",
+    "tweets": 0,
+    "day": "09-24",
+    "month": "2015-09",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-25",
+    "tweets": 0,
+    "day": "09-25",
+    "month": "2015-09",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-26",
+    "tweets": 1,
+    "day": "09-26",
+    "month": "2015-09",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-27",
+    "tweets": 0,
+    "day": "09-27",
+    "month": "2015-09",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-28",
+    "tweets": 5,
+    "day": "09-28",
+    "month": "2015-09",
+    "number": 28,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-29",
+    "tweets": 0,
+    "day": "09-29",
+    "month": "2015-09",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-09-30",
+    "tweets": 0,
+    "day": "09-30",
+    "month": "2015-09",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-01",
+    "tweets": 1,
+    "day": "10-01",
+    "month": "2015-10",
+    "number": 1,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-02",
+    "tweets": 0,
+    "day": "10-02",
+    "month": "2015-10",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-03",
+    "tweets": 0,
+    "day": "10-03",
+    "month": "2015-10",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-04",
+    "tweets": 0,
+    "day": "10-04",
+    "month": "2015-10",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-05",
+    "tweets": 0,
+    "day": "10-05",
+    "month": "2015-10",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-06",
+    "tweets": 0,
+    "day": "10-06",
+    "month": "2015-10",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-07",
+    "tweets": 0,
+    "day": "10-07",
+    "month": "2015-10",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-08",
+    "tweets": 0,
+    "day": "10-08",
+    "month": "2015-10",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-09",
+    "tweets": 0,
+    "day": "10-09",
+    "month": "2015-10",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-10",
+    "tweets": 0,
+    "day": "10-10",
+    "month": "2015-10",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-11",
+    "tweets": 0,
+    "day": "10-11",
+    "month": "2015-10",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-12",
+    "tweets": 0,
+    "day": "10-12",
+    "month": "2015-10",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-13",
+    "tweets": 1,
+    "day": "10-13",
+    "month": "2015-10",
+    "number": 13,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-14",
+    "tweets": 0,
+    "day": "10-14",
+    "month": "2015-10",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-15",
+    "tweets": 0,
+    "day": "10-15",
+    "month": "2015-10",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-16",
+    "tweets": 1,
+    "day": "10-16",
+    "month": "2015-10",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-17",
+    "tweets": 0,
+    "day": "10-17",
+    "month": "2015-10",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-18",
+    "tweets": 0,
+    "day": "10-18",
+    "month": "2015-10",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-19",
+    "tweets": 2,
+    "day": "10-19",
+    "month": "2015-10",
+    "number": 19,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-20",
+    "tweets": 1,
+    "day": "10-20",
+    "month": "2015-10",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-21",
+    "tweets": 8,
+    "day": "10-21",
+    "month": "2015-10",
+    "number": 21,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-22",
+    "tweets": 0,
+    "day": "10-22",
+    "month": "2015-10",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-23",
+    "tweets": 1,
+    "day": "10-23",
+    "month": "2015-10",
+    "number": 23,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-24",
+    "tweets": 0,
+    "day": "10-24",
+    "month": "2015-10",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-25",
+    "tweets": 0,
+    "day": "10-25",
+    "month": "2015-10",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-26",
+    "tweets": 0,
+    "day": "10-26",
+    "month": "2015-10",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-27",
+    "tweets": 1,
+    "day": "10-27",
+    "month": "2015-10",
+    "number": 27,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-28",
+    "tweets": 0,
+    "day": "10-28",
+    "month": "2015-10",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-29",
+    "tweets": 1,
+    "day": "10-29",
+    "month": "2015-10",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-30",
+    "tweets": 0,
+    "day": "10-30",
+    "month": "2015-10",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-10-31",
+    "tweets": 0,
+    "day": "10-31",
+    "month": "2015-10",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-01",
+    "tweets": 1,
+    "day": "11-01",
+    "month": "2015-11",
+    "number": 1,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-02",
+    "tweets": 0,
+    "day": "11-02",
+    "month": "2015-11",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-03",
+    "tweets": 0,
+    "day": "11-03",
+    "month": "2015-11",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-04",
+    "tweets": 0,
+    "day": "11-04",
+    "month": "2015-11",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-05",
+    "tweets": 0,
+    "day": "11-05",
+    "month": "2015-11",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-06",
+    "tweets": 0,
+    "day": "11-06",
+    "month": "2015-11",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-07",
+    "tweets": 0,
+    "day": "11-07",
+    "month": "2015-11",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-08",
+    "tweets": 0,
+    "day": "11-08",
+    "month": "2015-11",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-09",
+    "tweets": 1,
+    "day": "11-09",
+    "month": "2015-11",
+    "number": 9,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-10",
+    "tweets": 0,
+    "day": "11-10",
+    "month": "2015-11",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-11",
+    "tweets": 1,
+    "day": "11-11",
+    "month": "2015-11",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-12",
+    "tweets": 1,
+    "day": "11-12",
+    "month": "2015-11",
+    "number": 12,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-13",
+    "tweets": 0,
+    "day": "11-13",
+    "month": "2015-11",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-14",
+    "tweets": 0,
+    "day": "11-14",
+    "month": "2015-11",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-15",
+    "tweets": 0,
+    "day": "11-15",
+    "month": "2015-11",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-16",
+    "tweets": 0,
+    "day": "11-16",
+    "month": "2015-11",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-17",
+    "tweets": 0,
+    "day": "11-17",
+    "month": "2015-11",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-18",
+    "tweets": 6,
+    "day": "11-18",
+    "month": "2015-11",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-19",
+    "tweets": 0,
+    "day": "11-19",
+    "month": "2015-11",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-20",
+    "tweets": 0,
+    "day": "11-20",
+    "month": "2015-11",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-21",
+    "tweets": 0,
+    "day": "11-21",
+    "month": "2015-11",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-22",
+    "tweets": 0,
+    "day": "11-22",
+    "month": "2015-11",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-23",
+    "tweets": 0,
+    "day": "11-23",
+    "month": "2015-11",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-24",
+    "tweets": 0,
+    "day": "11-24",
+    "month": "2015-11",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-25",
+    "tweets": 0,
+    "day": "11-25",
+    "month": "2015-11",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-26",
+    "tweets": 1,
+    "day": "11-26",
+    "month": "2015-11",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-27",
+    "tweets": 0,
+    "day": "11-27",
+    "month": "2015-11",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-28",
+    "tweets": 1,
+    "day": "11-28",
+    "month": "2015-11",
+    "number": 28,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-29",
+    "tweets": 1,
+    "day": "11-29",
+    "month": "2015-11",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-11-30",
+    "tweets": 1,
+    "day": "11-30",
+    "month": "2015-11",
+    "number": 30,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-01",
+    "tweets": 0,
+    "day": "12-01",
+    "month": "2015-12",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-02",
+    "tweets": 0,
+    "day": "12-02",
+    "month": "2015-12",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-03",
+    "tweets": 0,
+    "day": "12-03",
+    "month": "2015-12",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-04",
+    "tweets": 0,
+    "day": "12-04",
+    "month": "2015-12",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-05",
+    "tweets": 0,
+    "day": "12-05",
+    "month": "2015-12",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-06",
+    "tweets": 0,
+    "day": "12-06",
+    "month": "2015-12",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-07",
+    "tweets": 0,
+    "day": "12-07",
+    "month": "2015-12",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-08",
+    "tweets": 0,
+    "day": "12-08",
+    "month": "2015-12",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-09",
+    "tweets": 2,
+    "day": "12-09",
+    "month": "2015-12",
+    "number": 9,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-10",
+    "tweets": 1,
+    "day": "12-10",
+    "month": "2015-12",
+    "number": 10,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-11",
+    "tweets": 0,
+    "day": "12-11",
+    "month": "2015-12",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-12",
+    "tweets": 1,
+    "day": "12-12",
+    "month": "2015-12",
+    "number": 12,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-13",
+    "tweets": 0,
+    "day": "12-13",
+    "month": "2015-12",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-14",
+    "tweets": 0,
+    "day": "12-14",
+    "month": "2015-12",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-15",
+    "tweets": 0,
+    "day": "12-15",
+    "month": "2015-12",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-16",
+    "tweets": 1,
+    "day": "12-16",
+    "month": "2015-12",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-17",
+    "tweets": 0,
+    "day": "12-17",
+    "month": "2015-12",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-18",
+    "tweets": 1,
+    "day": "12-18",
+    "month": "2015-12",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-19",
+    "tweets": 0,
+    "day": "12-19",
+    "month": "2015-12",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-20",
+    "tweets": 1,
+    "day": "12-20",
+    "month": "2015-12",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-21",
+    "tweets": 0,
+    "day": "12-21",
+    "month": "2015-12",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-22",
+    "tweets": 0,
+    "day": "12-22",
+    "month": "2015-12",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-23",
+    "tweets": 1,
+    "day": "12-23",
+    "month": "2015-12",
+    "number": 23,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-24",
+    "tweets": 0,
+    "day": "12-24",
+    "month": "2015-12",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-25",
+    "tweets": 1,
+    "day": "12-25",
+    "month": "2015-12",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-26",
+    "tweets": 0,
+    "day": "12-26",
+    "month": "2015-12",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-27",
+    "tweets": 0,
+    "day": "12-27",
+    "month": "2015-12",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-28",
+    "tweets": 0,
+    "day": "12-28",
+    "month": "2015-12",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-29",
+    "tweets": 0,
+    "day": "12-29",
+    "month": "2015-12",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-30",
+    "tweets": 0,
+    "day": "12-30",
+    "month": "2015-12",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2015-12-31",
+    "tweets": 0,
+    "day": "12-31",
+    "month": "2015-12",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-01",
+    "tweets": 0,
+    "day": "01-01",
+    "month": "2016-01",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-02",
+    "tweets": 0,
+    "day": "01-02",
+    "month": "2016-01",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-03",
+    "tweets": 0,
+    "day": "01-03",
+    "month": "2016-01",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-04",
+    "tweets": 6,
+    "day": "01-04",
+    "month": "2016-01",
+    "number": 4,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-05",
+    "tweets": 0,
+    "day": "01-05",
+    "month": "2016-01",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-06",
+    "tweets": 1,
+    "day": "01-06",
+    "month": "2016-01",
+    "number": 6,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-07",
+    "tweets": 0,
+    "day": "01-07",
+    "month": "2016-01",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-08",
+    "tweets": 0,
+    "day": "01-08",
+    "month": "2016-01",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-09",
+    "tweets": 0,
+    "day": "01-09",
+    "month": "2016-01",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-10",
+    "tweets": 0,
+    "day": "01-10",
+    "month": "2016-01",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-11",
+    "tweets": 0,
+    "day": "01-11",
+    "month": "2016-01",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-12",
+    "tweets": 2,
+    "day": "01-12",
+    "month": "2016-01",
+    "number": 12,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-13",
+    "tweets": 0,
+    "day": "01-13",
+    "month": "2016-01",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-14",
+    "tweets": 15,
+    "day": "01-14",
+    "month": "2016-01",
+    "number": 14,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-15",
+    "tweets": 0,
+    "day": "01-15",
+    "month": "2016-01",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-16",
+    "tweets": 0,
+    "day": "01-16",
+    "month": "2016-01",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-17",
+    "tweets": 0,
+    "day": "01-17",
+    "month": "2016-01",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-18",
+    "tweets": 1,
+    "day": "01-18",
+    "month": "2016-01",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-19",
+    "tweets": 0,
+    "day": "01-19",
+    "month": "2016-01",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-20",
+    "tweets": 5,
+    "day": "01-20",
+    "month": "2016-01",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-21",
+    "tweets": 0,
+    "day": "01-21",
+    "month": "2016-01",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-22",
+    "tweets": 0,
+    "day": "01-22",
+    "month": "2016-01",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-23",
+    "tweets": 0,
+    "day": "01-23",
+    "month": "2016-01",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-24",
+    "tweets": 0,
+    "day": "01-24",
+    "month": "2016-01",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-25",
+    "tweets": 1,
+    "day": "01-25",
+    "month": "2016-01",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-26",
+    "tweets": 0,
+    "day": "01-26",
+    "month": "2016-01",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-27",
+    "tweets": 0,
+    "day": "01-27",
+    "month": "2016-01",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-28",
+    "tweets": 0,
+    "day": "01-28",
+    "month": "2016-01",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-29",
+    "tweets": 1,
+    "day": "01-29",
+    "month": "2016-01",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-30",
+    "tweets": 0,
+    "day": "01-30",
+    "month": "2016-01",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-01-31",
+    "tweets": 2,
+    "day": "01-31",
+    "month": "2016-01",
+    "number": 31,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-01",
+    "tweets": 0,
+    "day": "02-01",
+    "month": "2016-02",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-02",
+    "tweets": 0,
+    "day": "02-02",
+    "month": "2016-02",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-03",
+    "tweets": 0,
+    "day": "02-03",
+    "month": "2016-02",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-04",
+    "tweets": 1,
+    "day": "02-04",
+    "month": "2016-02",
+    "number": 4,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-05",
+    "tweets": 0,
+    "day": "02-05",
+    "month": "2016-02",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-06",
+    "tweets": 0,
+    "day": "02-06",
+    "month": "2016-02",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-07",
+    "tweets": 0,
+    "day": "02-07",
+    "month": "2016-02",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-08",
+    "tweets": 0,
+    "day": "02-08",
+    "month": "2016-02",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-09",
+    "tweets": 1,
+    "day": "02-09",
+    "month": "2016-02",
+    "number": 9,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-10",
+    "tweets": 0,
+    "day": "02-10",
+    "month": "2016-02",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-11",
+    "tweets": 2,
+    "day": "02-11",
+    "month": "2016-02",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-12",
+    "tweets": 0,
+    "day": "02-12",
+    "month": "2016-02",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-13",
+    "tweets": 1,
+    "day": "02-13",
+    "month": "2016-02",
+    "number": 13,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-14",
+    "tweets": 0,
+    "day": "02-14",
+    "month": "2016-02",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-15",
+    "tweets": 0,
+    "day": "02-15",
+    "month": "2016-02",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-16",
+    "tweets": 0,
+    "day": "02-16",
+    "month": "2016-02",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-17",
+    "tweets": 0,
+    "day": "02-17",
+    "month": "2016-02",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-18",
+    "tweets": 5,
+    "day": "02-18",
+    "month": "2016-02",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-19",
+    "tweets": 0,
+    "day": "02-19",
+    "month": "2016-02",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-20",
+    "tweets": 0,
+    "day": "02-20",
+    "month": "2016-02",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-21",
+    "tweets": 0,
+    "day": "02-21",
+    "month": "2016-02",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-22",
+    "tweets": 1,
+    "day": "02-22",
+    "month": "2016-02",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-23",
+    "tweets": 0,
+    "day": "02-23",
+    "month": "2016-02",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-24",
+    "tweets": 0,
+    "day": "02-24",
+    "month": "2016-02",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-25",
+    "tweets": 0,
+    "day": "02-25",
+    "month": "2016-02",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-26",
+    "tweets": 1,
+    "day": "02-26",
+    "month": "2016-02",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-27",
+    "tweets": 0,
+    "day": "02-27",
+    "month": "2016-02",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-28",
+    "tweets": 0,
+    "day": "02-28",
+    "month": "2016-02",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-02-29",
+    "tweets": 0,
+    "day": "02-29",
+    "month": "2016-02",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-01",
+    "tweets": 1,
+    "day": "03-01",
+    "month": "2016-03",
+    "number": 1,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-02",
+    "tweets": 1,
+    "day": "03-02",
+    "month": "2016-03",
+    "number": 2,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-03",
+    "tweets": 0,
+    "day": "03-03",
+    "month": "2016-03",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-04",
+    "tweets": 0,
+    "day": "03-04",
+    "month": "2016-03",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-05",
+    "tweets": 0,
+    "day": "03-05",
+    "month": "2016-03",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-06",
+    "tweets": 0,
+    "day": "03-06",
+    "month": "2016-03",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-07",
+    "tweets": 0,
+    "day": "03-07",
+    "month": "2016-03",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-08",
+    "tweets": 1,
+    "day": "03-08",
+    "month": "2016-03",
+    "number": 8,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-09",
+    "tweets": 0,
+    "day": "03-09",
+    "month": "2016-03",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-10",
+    "tweets": 0,
+    "day": "03-10",
+    "month": "2016-03",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-11",
+    "tweets": 6,
+    "day": "03-11",
+    "month": "2016-03",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-12",
+    "tweets": 0,
+    "day": "03-12",
+    "month": "2016-03",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-13",
+    "tweets": 0,
+    "day": "03-13",
+    "month": "2016-03",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-14",
+    "tweets": 0,
+    "day": "03-14",
+    "month": "2016-03",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-15",
+    "tweets": 0,
+    "day": "03-15",
+    "month": "2016-03",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-16",
+    "tweets": 2,
+    "day": "03-16",
+    "month": "2016-03",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-17",
+    "tweets": 1,
+    "day": "03-17",
+    "month": "2016-03",
+    "number": 17,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-18",
+    "tweets": 0,
+    "day": "03-18",
+    "month": "2016-03",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-19",
+    "tweets": 0,
+    "day": "03-19",
+    "month": "2016-03",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-20",
+    "tweets": 1,
+    "day": "03-20",
+    "month": "2016-03",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-21",
+    "tweets": 0,
+    "day": "03-21",
+    "month": "2016-03",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-22",
+    "tweets": 0,
+    "day": "03-22",
+    "month": "2016-03",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-23",
+    "tweets": 0,
+    "day": "03-23",
+    "month": "2016-03",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-24",
+    "tweets": 0,
+    "day": "03-24",
+    "month": "2016-03",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-25",
+    "tweets": 0,
+    "day": "03-25",
+    "month": "2016-03",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-26",
+    "tweets": 0,
+    "day": "03-26",
+    "month": "2016-03",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-27",
+    "tweets": 1,
+    "day": "03-27",
+    "month": "2016-03",
+    "number": 27,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-28",
+    "tweets": 0,
+    "day": "03-28",
+    "month": "2016-03",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-29",
+    "tweets": 2,
+    "day": "03-29",
+    "month": "2016-03",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-30",
+    "tweets": 0,
+    "day": "03-30",
+    "month": "2016-03",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-03-31",
+    "tweets": 0,
+    "day": "03-31",
+    "month": "2016-03",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-01",
+    "tweets": 0,
+    "day": "04-01",
+    "month": "2016-04",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-02",
+    "tweets": 0,
+    "day": "04-02",
+    "month": "2016-04",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-03",
+    "tweets": 0,
+    "day": "04-03",
+    "month": "2016-04",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-04",
+    "tweets": 2,
+    "day": "04-04",
+    "month": "2016-04",
+    "number": 4,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-05",
+    "tweets": 0,
+    "day": "04-05",
+    "month": "2016-04",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-06",
+    "tweets": 0,
+    "day": "04-06",
+    "month": "2016-04",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-07",
+    "tweets": 0,
+    "day": "04-07",
+    "month": "2016-04",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-08",
+    "tweets": 1,
+    "day": "04-08",
+    "month": "2016-04",
+    "number": 8,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-09",
+    "tweets": 0,
+    "day": "04-09",
+    "month": "2016-04",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-10",
+    "tweets": 0,
+    "day": "04-10",
+    "month": "2016-04",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-11",
+    "tweets": 0,
+    "day": "04-11",
+    "month": "2016-04",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-12",
+    "tweets": 1,
+    "day": "04-12",
+    "month": "2016-04",
+    "number": 12,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-13",
+    "tweets": 2,
+    "day": "04-13",
+    "month": "2016-04",
+    "number": 13,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-14",
+    "tweets": 0,
+    "day": "04-14",
+    "month": "2016-04",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-15",
+    "tweets": 0,
+    "day": "04-15",
+    "month": "2016-04",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-16",
+    "tweets": 0,
+    "day": "04-16",
+    "month": "2016-04",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-17",
+    "tweets": 0,
+    "day": "04-17",
+    "month": "2016-04",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-18",
+    "tweets": 1,
+    "day": "04-18",
+    "month": "2016-04",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-19",
+    "tweets": 0,
+    "day": "04-19",
+    "month": "2016-04",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-20",
+    "tweets": 0,
+    "day": "04-20",
+    "month": "2016-04",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-21",
+    "tweets": 0,
+    "day": "04-21",
+    "month": "2016-04",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-22",
+    "tweets": 1,
+    "day": "04-22",
+    "month": "2016-04",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-23",
+    "tweets": 0,
+    "day": "04-23",
+    "month": "2016-04",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-24",
+    "tweets": 0,
+    "day": "04-24",
+    "month": "2016-04",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-25",
+    "tweets": 0,
+    "day": "04-25",
+    "month": "2016-04",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-26",
+    "tweets": 0,
+    "day": "04-26",
+    "month": "2016-04",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-27",
+    "tweets": 0,
+    "day": "04-27",
+    "month": "2016-04",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-28",
+    "tweets": 0,
+    "day": "04-28",
+    "month": "2016-04",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-29",
+    "tweets": 0,
+    "day": "04-29",
+    "month": "2016-04",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-04-30",
+    "tweets": 0,
+    "day": "04-30",
+    "month": "2016-04",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-01",
+    "tweets": 0,
+    "day": "05-01",
+    "month": "2016-05",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-02",
+    "tweets": 0,
+    "day": "05-02",
+    "month": "2016-05",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-03",
+    "tweets": 1,
+    "day": "05-03",
+    "month": "2016-05",
+    "number": 3,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-04",
+    "tweets": 0,
+    "day": "05-04",
+    "month": "2016-05",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-05",
+    "tweets": 0,
+    "day": "05-05",
+    "month": "2016-05",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-06",
+    "tweets": 0,
+    "day": "05-06",
+    "month": "2016-05",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-07",
+    "tweets": 0,
+    "day": "05-07",
+    "month": "2016-05",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-08",
+    "tweets": 0,
+    "day": "05-08",
+    "month": "2016-05",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-09",
+    "tweets": 0,
+    "day": "05-09",
+    "month": "2016-05",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-10",
+    "tweets": 0,
+    "day": "05-10",
+    "month": "2016-05",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-11",
+    "tweets": 0,
+    "day": "05-11",
+    "month": "2016-05",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-12",
+    "tweets": 0,
+    "day": "05-12",
+    "month": "2016-05",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-13",
+    "tweets": 0,
+    "day": "05-13",
+    "month": "2016-05",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-14",
+    "tweets": 0,
+    "day": "05-14",
+    "month": "2016-05",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-15",
+    "tweets": 0,
+    "day": "05-15",
+    "month": "2016-05",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-16",
+    "tweets": 1,
+    "day": "05-16",
+    "month": "2016-05",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-17",
+    "tweets": 0,
+    "day": "05-17",
+    "month": "2016-05",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-18",
+    "tweets": 0,
+    "day": "05-18",
+    "month": "2016-05",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-19",
+    "tweets": 0,
+    "day": "05-19",
+    "month": "2016-05",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-20",
+    "tweets": 0,
+    "day": "05-20",
+    "month": "2016-05",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-21",
+    "tweets": 0,
+    "day": "05-21",
+    "month": "2016-05",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-22",
+    "tweets": 0,
+    "day": "05-22",
+    "month": "2016-05",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-23",
+    "tweets": 0,
+    "day": "05-23",
+    "month": "2016-05",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-24",
+    "tweets": 0,
+    "day": "05-24",
+    "month": "2016-05",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-25",
+    "tweets": 0,
+    "day": "05-25",
+    "month": "2016-05",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-26",
+    "tweets": 0,
+    "day": "05-26",
+    "month": "2016-05",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-27",
+    "tweets": 0,
+    "day": "05-27",
+    "month": "2016-05",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-28",
+    "tweets": 0,
+    "day": "05-28",
+    "month": "2016-05",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-29",
+    "tweets": 0,
+    "day": "05-29",
+    "month": "2016-05",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-30",
+    "tweets": 1,
+    "day": "05-30",
+    "month": "2016-05",
+    "number": 30,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-05-31",
+    "tweets": 0,
+    "day": "05-31",
+    "month": "2016-05",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-01",
+    "tweets": 0,
+    "day": "06-01",
+    "month": "2016-06",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-02",
+    "tweets": 1,
+    "day": "06-02",
+    "month": "2016-06",
+    "number": 2,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-03",
+    "tweets": 0,
+    "day": "06-03",
+    "month": "2016-06",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-04",
+    "tweets": 1,
+    "day": "06-04",
+    "month": "2016-06",
+    "number": 4,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-05",
+    "tweets": 0,
+    "day": "06-05",
+    "month": "2016-06",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-06",
+    "tweets": 1,
+    "day": "06-06",
+    "month": "2016-06",
+    "number": 6,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-07",
+    "tweets": 0,
+    "day": "06-07",
+    "month": "2016-06",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-08",
+    "tweets": 0,
+    "day": "06-08",
+    "month": "2016-06",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-09",
+    "tweets": 0,
+    "day": "06-09",
+    "month": "2016-06",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-10",
+    "tweets": 0,
+    "day": "06-10",
+    "month": "2016-06",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-11",
+    "tweets": 0,
+    "day": "06-11",
+    "month": "2016-06",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-12",
+    "tweets": 0,
+    "day": "06-12",
+    "month": "2016-06",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-13",
+    "tweets": 0,
+    "day": "06-13",
+    "month": "2016-06",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-14",
+    "tweets": 0,
+    "day": "06-14",
+    "month": "2016-06",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-15",
+    "tweets": 0,
+    "day": "06-15",
+    "month": "2016-06",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-16",
+    "tweets": 0,
+    "day": "06-16",
+    "month": "2016-06",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-17",
+    "tweets": 0,
+    "day": "06-17",
+    "month": "2016-06",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-18",
+    "tweets": 0,
+    "day": "06-18",
+    "month": "2016-06",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-19",
+    "tweets": 2,
+    "day": "06-19",
+    "month": "2016-06",
+    "number": 19,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-20",
+    "tweets": 0,
+    "day": "06-20",
+    "month": "2016-06",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-21",
+    "tweets": 2,
+    "day": "06-21",
+    "month": "2016-06",
+    "number": 21,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-22",
+    "tweets": 1,
+    "day": "06-22",
+    "month": "2016-06",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-23",
+    "tweets": 0,
+    "day": "06-23",
+    "month": "2016-06",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-24",
+    "tweets": 0,
+    "day": "06-24",
+    "month": "2016-06",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-25",
+    "tweets": 0,
+    "day": "06-25",
+    "month": "2016-06",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-26",
+    "tweets": 0,
+    "day": "06-26",
+    "month": "2016-06",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-27",
+    "tweets": 2,
+    "day": "06-27",
+    "month": "2016-06",
+    "number": 27,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-28",
+    "tweets": 0,
+    "day": "06-28",
+    "month": "2016-06",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-29",
+    "tweets": 0,
+    "day": "06-29",
+    "month": "2016-06",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-06-30",
+    "tweets": 7,
+    "day": "06-30",
+    "month": "2016-06",
+    "number": 30,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-01",
+    "tweets": 0,
+    "day": "07-01",
+    "month": "2016-07",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-02",
+    "tweets": 1,
+    "day": "07-02",
+    "month": "2016-07",
+    "number": 2,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-03",
+    "tweets": 0,
+    "day": "07-03",
+    "month": "2016-07",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-04",
+    "tweets": 1,
+    "day": "07-04",
+    "month": "2016-07",
+    "number": 4,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-05",
+    "tweets": 1,
+    "day": "07-05",
+    "month": "2016-07",
+    "number": 5,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-06",
+    "tweets": 0,
+    "day": "07-06",
+    "month": "2016-07",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-07",
+    "tweets": 0,
+    "day": "07-07",
+    "month": "2016-07",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-08",
+    "tweets": 0,
+    "day": "07-08",
+    "month": "2016-07",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-09",
+    "tweets": 0,
+    "day": "07-09",
+    "month": "2016-07",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-10",
+    "tweets": 0,
+    "day": "07-10",
+    "month": "2016-07",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-11",
+    "tweets": 0,
+    "day": "07-11",
+    "month": "2016-07",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-12",
+    "tweets": 0,
+    "day": "07-12",
+    "month": "2016-07",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-13",
+    "tweets": 1,
+    "day": "07-13",
+    "month": "2016-07",
+    "number": 13,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-14",
+    "tweets": 0,
+    "day": "07-14",
+    "month": "2016-07",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-15",
+    "tweets": 0,
+    "day": "07-15",
+    "month": "2016-07",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-16",
+    "tweets": 0,
+    "day": "07-16",
+    "month": "2016-07",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-17",
+    "tweets": 0,
+    "day": "07-17",
+    "month": "2016-07",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-18",
+    "tweets": 1,
+    "day": "07-18",
+    "month": "2016-07",
+    "number": 18,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-19",
+    "tweets": 0,
+    "day": "07-19",
+    "month": "2016-07",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-20",
+    "tweets": 1,
+    "day": "07-20",
+    "month": "2016-07",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-21",
+    "tweets": 0,
+    "day": "07-21",
+    "month": "2016-07",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-22",
+    "tweets": 1,
+    "day": "07-22",
+    "month": "2016-07",
+    "number": 22,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-23",
+    "tweets": 0,
+    "day": "07-23",
+    "month": "2016-07",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-24",
+    "tweets": 0,
+    "day": "07-24",
+    "month": "2016-07",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-25",
+    "tweets": 1,
+    "day": "07-25",
+    "month": "2016-07",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-26",
+    "tweets": 0,
+    "day": "07-26",
+    "month": "2016-07",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-27",
+    "tweets": 0,
+    "day": "07-27",
+    "month": "2016-07",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-28",
+    "tweets": 1,
+    "day": "07-28",
+    "month": "2016-07",
+    "number": 28,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-29",
+    "tweets": 0,
+    "day": "07-29",
+    "month": "2016-07",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-30",
+    "tweets": 0,
+    "day": "07-30",
+    "month": "2016-07",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-07-31",
+    "tweets": 0,
+    "day": "07-31",
+    "month": "2016-07",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-01",
+    "tweets": 0,
+    "day": "08-01",
+    "month": "2016-08",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-02",
+    "tweets": 0,
+    "day": "08-02",
+    "month": "2016-08",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-03",
+    "tweets": 0,
+    "day": "08-03",
+    "month": "2016-08",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-04",
+    "tweets": 0,
+    "day": "08-04",
+    "month": "2016-08",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-05",
+    "tweets": 3,
+    "day": "08-05",
+    "month": "2016-08",
+    "number": 5,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-06",
+    "tweets": 1,
+    "day": "08-06",
+    "month": "2016-08",
+    "number": 6,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-07",
+    "tweets": 0,
+    "day": "08-07",
+    "month": "2016-08",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-08",
+    "tweets": 0,
+    "day": "08-08",
+    "month": "2016-08",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-09",
+    "tweets": 0,
+    "day": "08-09",
+    "month": "2016-08",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-10",
+    "tweets": 0,
+    "day": "08-10",
+    "month": "2016-08",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-11",
+    "tweets": 1,
+    "day": "08-11",
+    "month": "2016-08",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-12",
+    "tweets": 0,
+    "day": "08-12",
+    "month": "2016-08",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-13",
+    "tweets": 0,
+    "day": "08-13",
+    "month": "2016-08",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-14",
+    "tweets": 1,
+    "day": "08-14",
+    "month": "2016-08",
+    "number": 14,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-15",
+    "tweets": 0,
+    "day": "08-15",
+    "month": "2016-08",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-16",
+    "tweets": 0,
+    "day": "08-16",
+    "month": "2016-08",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-17",
+    "tweets": 0,
+    "day": "08-17",
+    "month": "2016-08",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-18",
+    "tweets": 0,
+    "day": "08-18",
+    "month": "2016-08",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-19",
+    "tweets": 0,
+    "day": "08-19",
+    "month": "2016-08",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-20",
+    "tweets": 0,
+    "day": "08-20",
+    "month": "2016-08",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-21",
+    "tweets": 1,
+    "day": "08-21",
+    "month": "2016-08",
+    "number": 21,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-22",
+    "tweets": 0,
+    "day": "08-22",
+    "month": "2016-08",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-23",
+    "tweets": 0,
+    "day": "08-23",
+    "month": "2016-08",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-24",
+    "tweets": 0,
+    "day": "08-24",
+    "month": "2016-08",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-25",
+    "tweets": 2,
+    "day": "08-25",
+    "month": "2016-08",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-26",
+    "tweets": 1,
+    "day": "08-26",
+    "month": "2016-08",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-27",
+    "tweets": 0,
+    "day": "08-27",
+    "month": "2016-08",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-28",
+    "tweets": 1,
+    "day": "08-28",
+    "month": "2016-08",
+    "number": 28,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-29",
+    "tweets": 1,
+    "day": "08-29",
+    "month": "2016-08",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-30",
+    "tweets": 0,
+    "day": "08-30",
+    "month": "2016-08",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-08-31",
+    "tweets": 0,
+    "day": "08-31",
+    "month": "2016-08",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-01",
+    "tweets": 0,
+    "day": "09-01",
+    "month": "2016-09",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-02",
+    "tweets": 0,
+    "day": "09-02",
+    "month": "2016-09",
+    "number": 2,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-03",
+    "tweets": 0,
+    "day": "09-03",
+    "month": "2016-09",
+    "number": 3,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-04",
+    "tweets": 0,
+    "day": "09-04",
+    "month": "2016-09",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-05",
+    "tweets": 2,
+    "day": "09-05",
+    "month": "2016-09",
+    "number": 5,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-06",
+    "tweets": 0,
+    "day": "09-06",
+    "month": "2016-09",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-07",
+    "tweets": 0,
+    "day": "09-07",
+    "month": "2016-09",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-08",
+    "tweets": 0,
+    "day": "09-08",
+    "month": "2016-09",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-09",
+    "tweets": 0,
+    "day": "09-09",
+    "month": "2016-09",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-10",
+    "tweets": 0,
+    "day": "09-10",
+    "month": "2016-09",
+    "number": 10,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-11",
+    "tweets": 0,
+    "day": "09-11",
+    "month": "2016-09",
+    "number": 11,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-12",
+    "tweets": 0,
+    "day": "09-12",
+    "month": "2016-09",
+    "number": 12,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-13",
+    "tweets": 0,
+    "day": "09-13",
+    "month": "2016-09",
+    "number": 13,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-14",
+    "tweets": 0,
+    "day": "09-14",
+    "month": "2016-09",
+    "number": 14,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-15",
+    "tweets": 0,
+    "day": "09-15",
+    "month": "2016-09",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-16",
+    "tweets": 0,
+    "day": "09-16",
+    "month": "2016-09",
+    "number": 16,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-17",
+    "tweets": 0,
+    "day": "09-17",
+    "month": "2016-09",
+    "number": 17,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-18",
+    "tweets": 0,
+    "day": "09-18",
+    "month": "2016-09",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-19",
+    "tweets": 0,
+    "day": "09-19",
+    "month": "2016-09",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-20",
+    "tweets": 0,
+    "day": "09-20",
+    "month": "2016-09",
+    "number": 20,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-21",
+    "tweets": 0,
+    "day": "09-21",
+    "month": "2016-09",
+    "number": 21,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-22",
+    "tweets": 0,
+    "day": "09-22",
+    "month": "2016-09",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-23",
+    "tweets": 0,
+    "day": "09-23",
+    "month": "2016-09",
+    "number": 23,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-24",
+    "tweets": 1,
+    "day": "09-24",
+    "month": "2016-09",
+    "number": 24,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-25",
+    "tweets": 1,
+    "day": "09-25",
+    "month": "2016-09",
+    "number": 25,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-26",
+    "tweets": 1,
+    "day": "09-26",
+    "month": "2016-09",
+    "number": 26,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-27",
+    "tweets": 2,
+    "day": "09-27",
+    "month": "2016-09",
+    "number": 27,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-28",
+    "tweets": 0,
+    "day": "09-28",
+    "month": "2016-09",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-29",
+    "tweets": 1,
+    "day": "09-29",
+    "month": "2016-09",
+    "number": 29,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-09-30",
+    "tweets": 0,
+    "day": "09-30",
+    "month": "2016-09",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-01",
+    "tweets": 1,
+    "day": "10-01",
+    "month": "2016-10",
+    "number": 1,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-02",
+    "tweets": 2,
+    "day": "10-02",
+    "month": "2016-10",
+    "number": 2,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-03",
+    "tweets": 1,
+    "day": "10-03",
+    "month": "2016-10",
+    "number": 3,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-04",
+    "tweets": 0,
+    "day": "10-04",
+    "month": "2016-10",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-05",
+    "tweets": 1,
+    "day": "10-05",
+    "month": "2016-10",
+    "number": 5,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-06",
+    "tweets": 1,
+    "day": "10-06",
+    "month": "2016-10",
+    "number": 6,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-07",
+    "tweets": 1,
+    "day": "10-07",
+    "month": "2016-10",
+    "number": 7,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-08",
+    "tweets": 0,
+    "day": "10-08",
+    "month": "2016-10",
+    "number": 8,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-09",
+    "tweets": 0,
+    "day": "10-09",
+    "month": "2016-10",
+    "number": 9,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-10",
+    "tweets": 1,
+    "day": "10-10",
+    "month": "2016-10",
+    "number": 10,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-11",
+    "tweets": 1,
+    "day": "10-11",
+    "month": "2016-10",
+    "number": 11,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-12",
+    "tweets": 1,
+    "day": "10-12",
+    "month": "2016-10",
+    "number": 12,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-13",
+    "tweets": 1,
+    "day": "10-13",
+    "month": "2016-10",
+    "number": 13,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-14",
+    "tweets": 1,
+    "day": "10-14",
+    "month": "2016-10",
+    "number": 14,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-15",
+    "tweets": 0,
+    "day": "10-15",
+    "month": "2016-10",
+    "number": 15,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-16",
+    "tweets": 1,
+    "day": "10-16",
+    "month": "2016-10",
+    "number": 16,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-17",
+    "tweets": 1,
+    "day": "10-17",
+    "month": "2016-10",
+    "number": 17,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-18",
+    "tweets": 0,
+    "day": "10-18",
+    "month": "2016-10",
+    "number": 18,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-19",
+    "tweets": 0,
+    "day": "10-19",
+    "month": "2016-10",
+    "number": 19,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-20",
+    "tweets": 2,
+    "day": "10-20",
+    "month": "2016-10",
+    "number": 20,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-21",
+    "tweets": 1,
+    "day": "10-21",
+    "month": "2016-10",
+    "number": 21,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-22",
+    "tweets": 0,
+    "day": "10-22",
+    "month": "2016-10",
+    "number": 22,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-23",
+    "tweets": 1,
+    "day": "10-23",
+    "month": "2016-10",
+    "number": 23,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-24",
+    "tweets": 0,
+    "day": "10-24",
+    "month": "2016-10",
+    "number": 24,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-25",
+    "tweets": 0,
+    "day": "10-25",
+    "month": "2016-10",
+    "number": 25,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-26",
+    "tweets": 0,
+    "day": "10-26",
+    "month": "2016-10",
+    "number": 26,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-27",
+    "tweets": 0,
+    "day": "10-27",
+    "month": "2016-10",
+    "number": 27,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-28",
+    "tweets": 0,
+    "day": "10-28",
+    "month": "2016-10",
+    "number": 28,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-29",
+    "tweets": 0,
+    "day": "10-29",
+    "month": "2016-10",
+    "number": 29,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-30",
+    "tweets": 0,
+    "day": "10-30",
+    "month": "2016-10",
+    "number": 30,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-10-31",
+    "tweets": 0,
+    "day": "10-31",
+    "month": "2016-10",
+    "number": 31,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-01",
+    "tweets": 0,
+    "day": "11-01",
+    "month": "2016-11",
+    "number": 1,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-02",
+    "tweets": 1,
+    "day": "11-02",
+    "month": "2016-11",
+    "number": 2,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-03",
+    "tweets": 1,
+    "day": "11-03",
+    "month": "2016-11",
+    "number": 3,
+    "tweeted": true,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-04",
+    "tweets": 0,
+    "day": "11-04",
+    "month": "2016-11",
+    "number": 4,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-05",
+    "tweets": 0,
+    "day": "11-05",
+    "month": "2016-11",
+    "number": 5,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-06",
+    "tweets": 0,
+    "day": "11-06",
+    "month": "2016-11",
+    "number": 6,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-07",
+    "tweets": 0,
+    "day": "11-07",
+    "month": "2016-11",
+    "number": 7,
+    "tweeted": false,
+    "arc": "obama2"
+  },
+  {
+    "date": "2016-11-08",
+    "tweets": 1,
+    "day": "11-08",
+    "month": "2016-11",
+    "number": 8,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-09",
+    "tweets": 0,
+    "day": "11-09",
+    "month": "2016-11",
+    "number": 9,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-10",
+    "tweets": 0,
+    "day": "11-10",
+    "month": "2016-11",
+    "number": 10,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-11",
+    "tweets": 1,
+    "day": "11-11",
+    "month": "2016-11",
+    "number": 11,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-12",
+    "tweets": 0,
+    "day": "11-12",
+    "month": "2016-11",
+    "number": 12,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-13",
+    "tweets": 0,
+    "day": "11-13",
+    "month": "2016-11",
+    "number": 13,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-14",
+    "tweets": 0,
+    "day": "11-14",
+    "month": "2016-11",
+    "number": 14,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-15",
+    "tweets": 0,
+    "day": "11-15",
+    "month": "2016-11",
+    "number": 15,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-16",
+    "tweets": 0,
+    "day": "11-16",
+    "month": "2016-11",
+    "number": 16,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-17",
+    "tweets": 0,
+    "day": "11-17",
+    "month": "2016-11",
+    "number": 17,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-18",
+    "tweets": 0,
+    "day": "11-18",
+    "month": "2016-11",
+    "number": 18,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-19",
+    "tweets": 0,
+    "day": "11-19",
+    "month": "2016-11",
+    "number": 19,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-20",
+    "tweets": 2,
+    "day": "11-20",
+    "month": "2016-11",
+    "number": 20,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-21",
+    "tweets": 0,
+    "day": "11-21",
+    "month": "2016-11",
+    "number": 21,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-22",
+    "tweets": 0,
+    "day": "11-22",
+    "month": "2016-11",
+    "number": 22,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-23",
+    "tweets": 0,
+    "day": "11-23",
+    "month": "2016-11",
+    "number": 23,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-24",
+    "tweets": 2,
+    "day": "11-24",
+    "month": "2016-11",
+    "number": 24,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-25",
+    "tweets": 0,
+    "day": "11-25",
+    "month": "2016-11",
+    "number": 25,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-26",
+    "tweets": 0,
+    "day": "11-26",
+    "month": "2016-11",
+    "number": 26,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-27",
+    "tweets": 0,
+    "day": "11-27",
+    "month": "2016-11",
+    "number": 27,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-28",
+    "tweets": 0,
+    "day": "11-28",
+    "month": "2016-11",
+    "number": 28,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-29",
+    "tweets": 0,
+    "day": "11-29",
+    "month": "2016-11",
+    "number": 29,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-11-30",
+    "tweets": 0,
+    "day": "11-30",
+    "month": "2016-11",
+    "number": 30,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-01",
+    "tweets": 1,
+    "day": "12-01",
+    "month": "2016-12",
+    "number": 1,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-02",
+    "tweets": 0,
+    "day": "12-02",
+    "month": "2016-12",
+    "number": 2,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-03",
+    "tweets": 0,
+    "day": "12-03",
+    "month": "2016-12",
+    "number": 3,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-04",
+    "tweets": 0,
+    "day": "12-04",
+    "month": "2016-12",
+    "number": 4,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-05",
+    "tweets": 1,
+    "day": "12-05",
+    "month": "2016-12",
+    "number": 5,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-06",
+    "tweets": 0,
+    "day": "12-06",
+    "month": "2016-12",
+    "number": 6,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-07",
+    "tweets": 0,
+    "day": "12-07",
+    "month": "2016-12",
+    "number": 7,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-08",
+    "tweets": 0,
+    "day": "12-08",
+    "month": "2016-12",
+    "number": 8,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-09",
+    "tweets": 0,
+    "day": "12-09",
+    "month": "2016-12",
+    "number": 9,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-10",
+    "tweets": 0,
+    "day": "12-10",
+    "month": "2016-12",
+    "number": 10,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-11",
+    "tweets": 0,
+    "day": "12-11",
+    "month": "2016-12",
+    "number": 11,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-12",
+    "tweets": 1,
+    "day": "12-12",
+    "month": "2016-12",
+    "number": 12,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-13",
+    "tweets": 1,
+    "day": "12-13",
+    "month": "2016-12",
+    "number": 13,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-14",
+    "tweets": 0,
+    "day": "12-14",
+    "month": "2016-12",
+    "number": 14,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-15",
+    "tweets": 0,
+    "day": "12-15",
+    "month": "2016-12",
+    "number": 15,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-16",
+    "tweets": 2,
+    "day": "12-16",
+    "month": "2016-12",
+    "number": 16,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-17",
+    "tweets": 0,
+    "day": "12-17",
+    "month": "2016-12",
+    "number": 17,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-18",
+    "tweets": 0,
+    "day": "12-18",
+    "month": "2016-12",
+    "number": 18,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-19",
+    "tweets": 0,
+    "day": "12-19",
+    "month": "2016-12",
+    "number": 19,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-20",
+    "tweets": 1,
+    "day": "12-20",
+    "month": "2016-12",
+    "number": 20,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-21",
+    "tweets": 0,
+    "day": "12-21",
+    "month": "2016-12",
+    "number": 21,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-22",
+    "tweets": 0,
+    "day": "12-22",
+    "month": "2016-12",
+    "number": 22,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-23",
+    "tweets": 0,
+    "day": "12-23",
+    "month": "2016-12",
+    "number": 23,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-24",
+    "tweets": 0,
+    "day": "12-24",
+    "month": "2016-12",
+    "number": 24,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-25",
+    "tweets": 1,
+    "day": "12-25",
+    "month": "2016-12",
+    "number": 25,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-26",
+    "tweets": 0,
+    "day": "12-26",
+    "month": "2016-12",
+    "number": 26,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-27",
+    "tweets": 0,
+    "day": "12-27",
+    "month": "2016-12",
+    "number": 27,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-28",
+    "tweets": 0,
+    "day": "12-28",
+    "month": "2016-12",
+    "number": 28,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-29",
+    "tweets": 0,
+    "day": "12-29",
+    "month": "2016-12",
+    "number": 29,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-30",
+    "tweets": 0,
+    "day": "12-30",
+    "month": "2016-12",
+    "number": 30,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2016-12-31",
+    "tweets": 0,
+    "day": "12-31",
+    "month": "2016-12",
+    "number": 31,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-01",
+    "tweets": 7,
+    "day": "01-01",
+    "month": "2017-01",
+    "number": 1,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-02",
+    "tweets": 0,
+    "day": "01-02",
+    "month": "2017-01",
+    "number": 2,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-03",
+    "tweets": 0,
+    "day": "01-03",
+    "month": "2017-01",
+    "number": 3,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-04",
+    "tweets": 0,
+    "day": "01-04",
+    "month": "2017-01",
+    "number": 4,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-05",
+    "tweets": 0,
+    "day": "01-05",
+    "month": "2017-01",
+    "number": 5,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-06",
+    "tweets": 0,
+    "day": "01-06",
+    "month": "2017-01",
+    "number": 6,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-07",
+    "tweets": 0,
+    "day": "01-07",
+    "month": "2017-01",
+    "number": 7,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-08",
+    "tweets": 0,
+    "day": "01-08",
+    "month": "2017-01",
+    "number": 8,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-09",
+    "tweets": 0,
+    "day": "01-09",
+    "month": "2017-01",
+    "number": 9,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-10",
+    "tweets": 1,
+    "day": "01-10",
+    "month": "2017-01",
+    "number": 10,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-11",
+    "tweets": 0,
+    "day": "01-11",
+    "month": "2017-01",
+    "number": 11,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-12",
+    "tweets": 1,
+    "day": "01-12",
+    "month": "2017-01",
+    "number": 12,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-13",
+    "tweets": 0,
+    "day": "01-13",
+    "month": "2017-01",
+    "number": 13,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-14",
+    "tweets": 0,
+    "day": "01-14",
+    "month": "2017-01",
+    "number": 14,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-15",
+    "tweets": 0,
+    "day": "01-15",
+    "month": "2017-01",
+    "number": 15,
+    "tweeted": false,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-16",
+    "tweets": 3,
+    "day": "01-16",
+    "month": "2017-01",
+    "number": 16,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-17",
+    "tweets": 1,
+    "day": "01-17",
+    "month": "2017-01",
+    "number": 17,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-18",
+    "tweets": 1,
+    "day": "01-18",
+    "month": "2017-01",
+    "number": 18,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-19",
+    "tweets": 1,
+    "day": "01-19",
+    "month": "2017-01",
+    "number": 19,
+    "tweeted": true,
+    "arc": "election2016"
+  },
+  {
+    "date": "2017-01-20",
+    "tweets": 4,
+    "day": "01-20",
+    "month": "2017-01",
+    "number": 20,
+    "tweeted": true,
+    "arc": "trump"
+  }
+]

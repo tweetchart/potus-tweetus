@@ -1,0 +1,29 @@
+{
+  "series_name": "realDonaldTrump",
+  "ongoing": true,
+  "major_hiatus_threshold": 6,
+  "major_streak_threshold": 49,
+  "arcs": [
+    {
+      "key": "hiatus-arc",
+      "name": "Hiatus"
+    },
+    {
+      "key": "obama1",
+      "name": "Obama's First Term"
+    },
+    {
+      "key": "obama2",
+      "name": "Obama's Second Term"
+    },
+
+    {
+      "key": "trump",
+      "name": "Trump Incumbency"
+    },
+    {
+      "key": "election2020",
+      "name": "2020 Election and \"Transition\""
+    }
+  ]
+}
