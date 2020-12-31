@@ -38293,5 +38293,41 @@
     "number": 26,
     "tweeted": true,
     "arc": "election2020"
+  },
+  {
+    "date": "2020-12-27",
+    "tweets": 3,
+    "day": "27",
+    "month": "2020-12",
+    "number": 27,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2020-12-28",
+    "tweets": 12,
+    "day": "28",
+    "month": "2020-12",
+    "number": 28,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2020-12-29",
+    "tweets": 22,
+    "day": "29",
+    "month": "2020-12",
+    "number": 29,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2020-12-30",
+    "tweets": 15,
+    "day": "30",
+    "month": "2020-12",
+    "number": 30,
+    "tweeted": true,
+    "arc": "election2020"
   }
 ]
