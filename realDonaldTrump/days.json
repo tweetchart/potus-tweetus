@@ -6,7 +6,8 @@
     "month": "2009-05",
     "number": 4,
     "tweeted": true,
-    "arc": "obama1"
+    "arc": "obama1",
+    "offset": 3
   },
   {
     "date": "2009-05-05",
@@ -38327,6 +38328,15 @@
     "day": "30",
     "month": "2020-12",
     "number": 30,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2020-12-31",
+    "tweets": 6,
+    "day": "31",
+    "month": "2020-12",
+    "number": 31,
     "tweeted": true,
     "arc": "election2020"
   }
