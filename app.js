@@ -367,7 +367,7 @@ function update(that) {
     if (!last_issue.tweeted && hiatus_count >= that.info.major_hiatus_threshold) {
         hiatuses.push({
             start: last_begin.month + '-' + last_begin.day,
-            end: (OBAMA ? last_issue.month + '-' + last_issue.day : '??'),
+            end: (!that.info.ongoing ? last_issue.month + '-' + last_issue.day : '??'),
             total: hiatus_count
         });
         if (hiatus_count > greatest) {
@@ -378,7 +378,7 @@ function update(that) {
     if (last_issue.tweeted && streak_count >= that.info.major_streak_threshold) {
         streaks.push({
             start: last_start.month + '-' + last_start.day,
-            end: (OBAMA ? last_issue.month + '-' + last_issue.day : '??'),
+            end: (!that.info.ongoing ? last_issue.month + '-' + last_issue.day : '??'),
             total: streak_count
         });
         if (streak_count > longest) {

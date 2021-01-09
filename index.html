@@ -19,12 +19,12 @@
     <meta name="viewport" content="width=774.15 initial-scale=0" />
     <meta name="description" v-bind:content="'@'+{info.series_name} +' Tweet Chart'" />
 
-    <meta name="keywords" content="potus,break,hiatus,hiatuses,hiato,hiatos,gráfico,chart,trump,tweet,tweets,streak,obama,potus45,potus44" />
+    <meta name="keywords" content="potus,break,hiatus,hiatuses,hiato,hiatos,gráfico,chart,trump,tweet,tweets,streak,obama,potus45,potus44,banned" />
 
     <meta property="og:url" content="https://tweetchart.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="POTUS Tweet Charts: Obama vs. Trump" />
-    <meta property="og:description" content="Daily tweet streak and hiatus charts" />
+    <meta property="og:title" content="POTUS Tweets: Trump vs. Obama" />
+    <meta property="og:description" content="Tweet streak charts and statistics" />
     <meta property="og:image" content="https://tweetchart.com/icon.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@realTweetChart" />
@@ -308,7 +308,7 @@
 
                             <div class="bar false right" style="display: inline-block;width:100%"></div>
                         </div>
-                        <p><strong>{{totaldays}}</strong> days {{info.series_name=="POTUS44"? "is the time span over which @POTUS44 was active as @POTUS.": "have passed since @" + info.series_name + "'s debut on Twitter."}}</p>
+						<p><strong>{{totaldays}}</strong> days {{info.series_name=="POTUS44"? "is the time span over which @POTUS44 was active as @POTUS.": (info.series_name=="realDonaldTrump"?"is the time span over which @" + info.series_name + " was active on Twitter.":"have passed since @" + info.series_name + "'s debut on Twitter.")}}</p>
                         <p><strong>{{totaltweets}}</strong> tweets were collected in total.</p>
                         <p><strong>{{(totaltweets/status.overall.totalPresent).fixedFixed(1)}}</strong> tweets were posted on average on days that tweets were posted.</p>
                         <p><strong>{{maxtweets}}</strong> is the highest number of tweets posted on a single day ({{maxtweetdate}}).</p>

@@ -38339,5 +38339,77 @@
     "number": 31,
     "tweeted": true,
     "arc": "election2020"
+  },
+  {
+    "date": "2021-01-01",
+    "tweets": 29,
+    "day": "01",
+    "month": "2021-01",
+    "number": 1,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-02",
+    "tweets": 26,
+    "day": "02",
+    "month": "2021-01",
+    "number": 2,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-03",
+    "tweets": 40,
+    "day": "03",
+    "month": "2021-01",
+    "number": 3,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-04",
+    "tweets": 13,
+    "day": "04",
+    "month": "2021-01",
+    "number": 4,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-05",
+    "tweets": 27,
+    "day": "05",
+    "month": "2021-01",
+    "number": 5,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-06",
+    "tweets": 13,
+    "day": "06",
+    "month": "2021-01",
+    "number": 6,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-07",
+    "tweets": 1,
+    "day": "07",
+    "month": "2021-01",
+    "number": 7,
+    "tweeted": true,
+    "arc": "election2020"
+  },
+  {
+    "date": "2021-01-08",
+    "tweets": 2,
+    "day": "08",
+    "month": "2021-01",
+    "number": 8,
+    "tweeted": true,
+    "arc": "election2020"
   }
 ]

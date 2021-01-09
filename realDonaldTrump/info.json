@@ -1,6 +1,6 @@
 {
   "series_name": "realDonaldTrump",
-  "ongoing": true,
+  "ongoing": false,
   "major_hiatus_threshold": 6,
   "major_streak_threshold": 49,
   "arcs": [
