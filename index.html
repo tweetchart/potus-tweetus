@@ -23,7 +23,7 @@
 
     <meta property="og:url" content="https://tweetchart.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="POTUS Tweets: Trump vs. Obama" />
+    <meta property="og:title" content="POTUS Tweets: Obama, Trump, Biden" />
     <meta property="og:description" content="Tweet streak charts and statistics" />
     <meta property="og:image" content="https://tweetchart.com/icon.png" />
 	<meta name="twitter:card" content="summary_large_image" />
@@ -57,7 +57,8 @@
 
                 <div class="buttons" style="display:flex;  justify-content: center; text-align: center; margin-bottom: 8px;">
                     <a :href="REAL_LOCATION + 'POTUS44/'" class="chart-button"> @POTUS44</a>
-                    <a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button"> @realDonaldTrump</a>
+					<a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button"> @realDonaldTrump</a>
+					<a :href="REAL_LOCATION + 'POTUS/'" class="chart-button"> @POTUS</a>
                 </div>
 
 
@@ -132,7 +133,7 @@
                     <p class="text-center" style="visibility: hidden" v-bind:style="{visibility: 'visible'}">Total <strong>{{totaltweets}}</strong> tweets collected over <strong>{{totaldays}}</strong> days, for an average of <strong>{{dailytweets<9.5? dailytweets.fixedFixed(1):dailytweets.fixedFixed(0)}}</strong> tweets per day.<br />Tweets posted until 5 AM Eastern Standard Time count towards the previous day.</p>
 
 
-                    <div style="visibility: hidden" v-bind:style="{visibility: 'visible'}" v-if="issues_by_year.length && info.series_name != 'POTUS44' && ((hide_cap == 0) || (hide_cap == 1 && show_arcs))">
+                    <div style="visibility: hidden" v-bind:style="{visibility: 'visible'}" v-if="issues_by_year.length && info.series_name == 'realDonaldTrump' && ((hide_cap == 0) || (hide_cap == 1 && show_arcs))">
                         <div class="caption" v-if="!show_arcs && !show_size && !show_opacity">
 
                             <div class="arcs">
@@ -154,9 +155,9 @@
                     </div>
 
                 </div>
-                <div style="display:flex;flex-flow:row;justify-content:space-between;align-content:center;" v-bind:style="{maxHeight: issues_by_year.length * 13}">
+                <div style="display:flex;flex-flow:row;justify-content:space-between;align-content:center;min-height:280px" v-bind:style="{maxHeight: issues_by_year.length * 13}">
 
-                    <div style="visibility: hidden;white-space:nowrap" v-bind:style="{visibility: 'visible'}" id="main-chart" class="row chart notransition">
+                    <div style="visibility: hidden;white-space:nowrap;display:flex;flex-flow:column nowrap; justify-content:center" v-bind:style="{visibility: 'visible'}" id="main-chart" class="row chart notransition">
                         <div>
                             <div v-for="group in issues_by_year" class="h-row">
                                 <div class="chart-year">{{group.month}}</div>
@@ -179,9 +180,9 @@
                     </div>
 
 
-                    <div style="display:flex;flex-flow:column;justify-content:flex-center" v-bind:style="{justifyContent:(info.series_name == 'POTUS44'?'center':'flex-start')}">
+                    <div style="display:flex;flex-flow:column;justify-content:flex-center" v-bind:style="{justifyContent:(info.series_name != 'realDonaldTrump'?'center':'flex-start')}">
 
-                        <div style="visibility: hidden;margin-top:0px;margin-bottom:0px" v-bind:style="{visibility: 'visible', height:(info.series_name == 'POTUS44'?'':issues_by_year.length * 13)}" v-if="issues_by_year.length">
+                        <div style="visibility: hidden;margin-top:0px;margin-bottom:0px" v-bind:style="{visibility: 'visible', height:(info.series_name != 'realDonaldTrump'?'':issues_by_year.length * 13)}" v-if="issues_by_year.length">
 
 
                             <div class="fabbuttons" style="" style="visibility: hidden" v-bind:style="{visibility: 'visible',
@@ -308,7 +309,7 @@
 
                             <div class="bar false right" style="display: inline-block;width:100%"></div>
                         </div>
-						<p><strong>{{totaldays}}</strong> days {{info.series_name=="POTUS44"? "is the time span over which @POTUS44 was active as @POTUS.": (info.series_name=="realDonaldTrump"?"is the time span over which @" + info.series_name + " was active on Twitter.":"have passed since @" + info.series_name + "'s debut on Twitter.")}}</p>
+						<p><strong>{{totaldays}}</strong> days {{info.series_name=="POTUS44"? "is the time span over which @POTUS44 was active as @POTUS.": (info.series_name=="realDonaldTrump"?"is the time span over which @" + info.series_name + " was active on Twitter.":"have passed since @" + info.series_name + "'s first tweet on " + (all_issues[0]?all_issues[0].date:'..') + ".")}}</p>
                         <p><strong>{{totaltweets}}</strong> tweets were collected in total.</p>
                         <p><strong>{{(totaltweets/status.overall.totalPresent).fixedFixed(1)}}</strong> tweets were posted on average on days that tweets were posted.</p>
                         <p><strong>{{maxtweets}}</strong> is the highest number of tweets posted on a single day ({{maxtweetdate}}).</p>
