@@ -64,30 +64,36 @@ function format(days) {
 var BASE_NAME = "" + window.location.pathname.match(/(^.*)\/[^\/]*$/)[1];
 var REAL_LOCATION = "" + window.location.pathname.match(/(^.*\/)[^\/]*$/)[1];
 
-if (!BASE_NAME.match("POTUS44") && !BASE_NAME.match("realDonaldTrump")) {
+var BIDEN_NAME = "POTUS"
+
+if (!BASE_NAME.match("POTUS44") && !BASE_NAME.match("realDonaldTrump") && !BASE_NAME.match(BIDEN_NAME)) {
     console.log(BASE_NAME)
     BASE_NAME += "/realDonaldTrump";
 } else {
-    REAL_LOCATION = REAL_LOCATION.replace("/POTUS44", "")
-    REAL_LOCATION = REAL_LOCATION.replace("/realDonaldTrump", "")
+	REAL_LOCATION = REAL_LOCATION.replace("/POTUS44", "")
+	REAL_LOCATION = REAL_LOCATION.replace("/realDonaldTrump", "")
+	REAL_LOCATION = REAL_LOCATION.replace("/" + BIDEN_NAME, "")
 }
 
 var REAL_NAME = "" + BASE_NAME.match(/\/([^\/]*$)/)[1];
 
 var OBAMA = BASE_NAME.match("POTUS44")
+var BIDEN = !OBAMA && BASE_NAME.match(BIDEN_NAME)
 
 var PARSE_LATEST = 1 & !OBAMA;
-var PARSE_DATES = 0;
+var PARSE_DATES = 0 | !!BIDEN;
+
+console.log (PARSE_DATES)
 
 var INFO_PATH = BASE_NAME + "/info.json";
 var ISSUES_PATH = BASE_NAME + (PARSE_DATES ? "/dates.json" : "/days.json");
 
-var OBAMA_REELECTED = new Date("2012-11-06 17:00Z")
-var OBAMA_SECOND = new Date("2013-01-20 17:00Z")
-var TRUMP_ELECTED = new Date("2016-11-08 17:00Z")
-var TRUMP_PRESIDENCY = new Date("2017-01-20 17:00Z")
-var ELECTION_DAY = new Date("2020-11-03 17:00Z")
-var BIDEN_2021 = new Date("2021-01-20 17:00Z")
+var OBAMA_REELECTED = new Date("2012-11-06")
+var OBAMA_SECOND = new Date("2013-01-20")
+var TRUMP_ELECTED = new Date("2016-11-08")
+var TRUMP_PRESIDENCY = new Date("2017-01-20")
+var ELECTION_DAY = new Date("2020-11-03")
+var BIDEN_2021 = new Date("2021-01-20")
 
 var EST_OFFSET = 5
 var NIGHT_OFFSET = 5
@@ -127,7 +133,7 @@ function get_stats(data) {
     that.totaltweets = _.sumBy(data, function(day) {
         return day.tweets;
     });
-    that.dailytweets = that.totaltweets / data.length
+	that.dailytweets = (data.length? that.totaltweets / data.length : 0)
     that.totaldays = data.length
     var maxtweet = _.maxBy(data, function(day) {
         return day.tweets;
@@ -561,8 +567,63 @@ var app = new Vue({
                         data = response.data
 
                         if (PARSE_DATES) {
-                            that.all_issues = dailify(data);
-                            console.log(format(that.all_issues))
+							that.all_issues = dailify(data);
+                            //console.log(format(that.all_issues))
+//							that.all_issues = that.all_issues.slice(0, that.all_issues.length-1)
+						  
+						  function load_tweets(that) {
+						  var frame = document.querySelector('#twitter-widget-0')
+						  
+						  if (!frame) return setTimeout(load_tweets, 500, that);
+						  
+						  var list = frame.contentWindow.document.querySelectorAll('.timeline-Tweet')
+						  if (list.length == 0) return setTimeout(load_tweets, 500, that);
+						  
+						  var last = Array.from(list).filter(d => !d.classList.contains("timeline-Tweet--isRetweet"))
+						  
+						  if (last.length == 0) last = "";
+						  else last = last[last.length - 1].querySelector('time.dt-updated')
+						  
+						  if (!last || (convert(last.dateTime)) > data[data.length - 1].date) {
+						  var button = frame.contentWindow.document.querySelector('.timeline-LoadMore-prompt.timeline-ShowMoreButton')
+						  button.click()
+						  return setTimeout(load_tweets, 500, that)
+						  
+						  
+						  }
+						  list = Array.from(list).map(d => ({
+															date: convert(d.querySelector('time.dt-updated').dateTime),
+															rt: d.classList.contains("timeline-Tweet--isRetweet")
+															})).reverse()
+						  
+						  if (list[0].rt) list[0].date = "";
+						  
+						  for (i = 1; i < list.length; i++) {
+						  if (list[i].rt) {
+						  var next = list.find((d, j) => (!d.rt && j > i))
+						  if (!next) {
+						  list[i].date = "";
+						  continue
+						  }
+						  if (list[i - 1].date && get_day(next.date) === get_day(list[i - 1].date)) list[i].date = list[i - 1].date
+						  else list[i].date = ""
+						  }
+						  }
+						  
+						  list = (list.filter(d => d.date))
+						  
+						  list = list.filter(d => d.date > data[data.length - 1].date)
+						  
+						  data = data.concat(list);
+						  
+						  that.all_issues = dailify(data);
+						  get_stats(that.all_issues)
+						  update(that);
+						  
+						  };
+						  
+						  load_tweets(that);
+						  
                         } else {
                             that.all_issues = response.data
                         }
@@ -741,8 +802,8 @@ var app = new Vue({
 
         window.disqus_config = function() {
             this.page.url = "https://tweetchart.com/" + REAL_NAME + "/";
-            this.page.identifier = "__" + REAL_NAME; //__POTUS44 for potus44 // __realDonaldTrump for realdonaldtrump //home for home
-            this.page.title = "@" + REAL_NAME /**/ + " Tweet Chart"; /**/ //_@_a_b@c-d+e_
+            this.page.identifier = "__" + REAL_NAME; //home for home //__POTUS44 for potus44 // __realDonaldTrump for realdonaldtrump //__POTUS for potus
+            this.page.title = "@" + REAL_NAME /** + " Tweet Chart"; /**/ //_@_a_b@c-d+e_
             this.callbacks.onReady.push(function(d) {
                 show_disqus = 1;
             });
@@ -847,7 +908,9 @@ var app = new Vue({
                         yAxes: [{
 
                             ticks: {
-                                callback: percentize
+								callback: function(value, index, values) {
+								return value.fixedFixed(BIDEN?1:0) + "%";
+								}
                             }
 
                         }]
@@ -912,7 +975,7 @@ var app = new Vue({
                                 return data.datasets[tooltipItem.datasetIndex].label[tooltipItem.index];
                             }
                         }
-                    },
+					},
                     animation: {
                         animateScale: true
                     },
