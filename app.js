@@ -592,7 +592,7 @@ var app = new Vue({
 						  
 						  }
 						  list = Array.from(list).map(d => ({
-															date: (d.querySelector('time.dt-updated').dateTime),
+															date: convert(d.querySelector('time.dt-updated').dateTime),
 															rt: d.classList.contains("timeline-Tweet--isRetweet")
 															})).reverse()
 						  
@@ -609,13 +609,10 @@ var app = new Vue({
 						  else list[i].date = ""
 						  }
 						  }
-						  console.log(list)
 						  list = (list.filter(d => d.date))
-						  
-						  console.log(list, data[data.length - 1].date)
 						  list = list.filter(d => d.date > data[data.length - 1].date)
 						  
-						  console.log(list)
+						  list = list.map(d=>({date: d.date}))
 						  data = data.concat(list);
 						  
 						  that.all_issues = dailify(data);
