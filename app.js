@@ -81,7 +81,7 @@ var OBAMA = BASE_NAME.match("POTUS44")
 var BIDEN = !OBAMA && BASE_NAME.match(BIDEN_NAME)
 
 var PARSE_LATEST = 1 & !OBAMA;
-var PARSE_DATES = 0 | !!BIDEN;
+var PARSE_DATES = 0 //| !!BIDEN;
 
 console.log (PARSE_DATES)
 
