@@ -148,7 +148,8 @@
                         <div class="caption" v-if="show_arcs">
                             <div class="arcs" v-for="arc in info.arcs" v-if="(!(show_size || show_opacity) || arc.key!='hiatus-arc') && !(show_arcs && !show_defrag && arc.key=='hiatus-arc')" v-bind:title="(show_defrag && arc.key=='trump' && info.series_name=='realDonaldTrump')?'Cumber: to occupy obstructively or inconveniently; to block; fill up with what hinders freedom of motion or action; to burden, load.':''">
                                 <div v-bind:class="['h-col',arc.key]"></div>
-                                {{(show_defrag?(arc.key=="hiatus-arc" && info.series_name =="realDonaldTrump" && ";"?"Tiny Hands Hiatus Arc 🤗":(arc.key=="trump" && info.series_name =="POTUS44" && ";"?"":arc.name)):arc.name)}}
+								{{(show_defrag?(arc.key=="hiatus-arc" && info.series_name =="realDonaldTrump" && ";"?"Tiny Hands Hiatus Arc 🤗":(arc.key=="trump" && info.series_name =="POTUS44" && ";"?"":arc.name)):arc.name)}}
+								<a target="new" href="https://www.youtube.com/watch?v=QaOSbK_m1Mc" v-if="show_defrag && arc.key=='insurrection' && info.series_name =='realDonaldTrump'">🎤</a>
                             </div>
                         </div>
 
@@ -169,9 +170,11 @@
 										marginTop: !show_size?'': 6 - Math.round(issue.tweets>0?(1 + Math.sqrt(issue.tweets-1))/(1+Math.sqrt(maxtweets-1)) * 12 :0) / 2 + 'px',
 										height: show_size?Math.round(issue.tweets>0?(1 + Math.sqrt(issue.tweets-1))/(1+Math.sqrt(maxtweets-1)) * 12 :0) + 'px':''}">
                                     <!--Math.log(issue.tweets-dailytweets+1)/Math.log(maxtweets-dailytweets+1) * 6 + 'px':issue.tweets/dailytweets * 6+'px'-->
-                                    <a target="new" href="https://www.youtube.com/watch?v=NxFkEj7KPC0" v-if="issue.arc=='trump' && info.series_name =='POTUS44' && show_arcs">
+									<a target="new" v-bind:href="(info.series_name == 'POTUS44'?'https://www.youtube.com/watch?v=NxFkEj7KPC0':(issue.date=='2021-01-06'?'https://www.youtube.com/watch?v=QaOSbK_m1Mc':(issue.date=='2021-01-07'?'https://www.youtube.com/watch?v=dQ_M67xVI9M':(issue.date=='2021-01-08'?'https://www.youtube.com/watch?v=miL2NFsiuw0':issue.date=='2021-01-14'?'https://www.youtube.com/watch?v=tMnytiQCQkA':'https://www.youtube.com/watch?v=rtbu6fhPy8U'))))" v-if="(issue.arc=='trump' && info.series_name =='POTUS44') || (issue.date>='2021-01-06' && info.series_name =='realDonaldTrump') || ((issue.date=='2021-01-14' || 0&issue.date=='2021-01-20') && info.series_name =='POTUS')">
+											<div>
                                         <div class="h-col" style="margin-left:0;visibility:hidden" v-bind:style="{height: show_size?Math.round(issue.tweets>0?(1 + Math.sqrt(issue.tweets-1))/(1+Math.sqrt(maxtweets-1)) * 12 :0) + 'px':''}"></div>
-                                    </a>
+											</div>
+											</a>
                                 </div>
 
                             </div>
@@ -220,8 +223,10 @@
                     <div class="caption" v-if="show_arcs" style="visibility: hidden" v-bind:style="{visibility: 'visible'}">
                         <div class="arcs" v-for="arc in info.arcs" v-if="(!(show_size || show_opacity) || arc.key!='hiatus-arc') && !(show_arcs && !show_defrag && arc.key=='hiatus-arc')" v-bind:title="(show_defrag && arc.key=='trump' && info.series_name=='realDonaldTrump')?'Cumber: to occupy obstructively or inconveniently; to block; fill up with what hinders freedom of motion or action; to burden, load.':''">
                             <div v-bind:class="['h-col',arc.key]"></div>
-                            {{(show_defrag?(arc.key=="hiatus-arc" && info.series_name =="realDonaldTrump" && ";"?"Tiny Hands Hiatus Arc 🤗":(arc.key=="trump" && info.series_name =="POTUS44" && ";"?"Obama Out":arc.name)):arc.name)}}
-                            <a target="new" href="https://www.youtube.com/watch?v=NxFkEj7KPC0" v-if="show_defrag && arc.key=='trump' && info.series_name =='POTUS44'">🎤</a>
+                            {{(show_defrag?(arc.key=="hiatus-arc" && info.series_name =="realDonaldTrump" && ";"?"Tiny Hands Hiatus Arc 🤗":(arc.key=="trump" && info.series_name =="POTUS44" && ";"?"Obama Out":(arc.key=="election2020" && info.series_name =="POTUS" && ";"?"Hit the Road":arc.name))):arc.name)}}
+							<a target="new" href="https://www.youtube.com/watch?v=NxFkEj7KPC0" v-if="show_defrag && arc.key=='trump' && info.series_name =='POTUS44'">🎤</a>
+							<a target="new" href="https://www.youtube.com/watch?v=QaOSbK_m1Mc" v-if="show_defrag && arc.key=='insurrection' && info.series_name =='realDonaldTrump'">🎤</a>
+							<a target="new" href="https://www.youtube.com/watch?v=tMnytiQCQkA" v-if="show_defrag && arc.key=='election2020' && info.series_name =='POTUS'">🎤</a>
                         </div>
                     </div>
                 </div>

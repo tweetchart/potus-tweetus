@@ -6,8 +6,7 @@
     "month": "2021-01",
     "number": 14,
     "tweeted": true,
-    "arc": "election2020",
-    "offset": 13
+    "arc": "election2020"
   },
   {
     "date": "2021-01-15",
@@ -69,6 +68,24 @@
     "day": "21",
     "month": "2021-01",
     "number": 21,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-01-22",
+    "tweets": 9,
+    "day": "22",
+    "month": "2021-01",
+    "number": 22,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-01-23",
+    "tweets": 1,
+    "day": "23",
+    "month": "2021-01",
+    "number": 23,
     "tweeted": true,
     "arc": "biden"
   }

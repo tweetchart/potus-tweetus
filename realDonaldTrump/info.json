@@ -24,6 +24,10 @@
     {
       "key": "election2020",
       "name": "2020 Election and \"Transition\""
+    },
+    {
+      "key": "insurrection",
+      "name": "Insurrection at the Capitol"
     }
   ]
 }

@@ -80,7 +80,7 @@ var REAL_NAME = "" + BASE_NAME.match(/\/([^\/]*$)/)[1];
 var OBAMA = BASE_NAME.match("POTUS44")
 var BIDEN = !OBAMA && BASE_NAME.match(BIDEN_NAME)
 
-var PARSE_LATEST = 1 & !OBAMA;
+var PARSE_LATEST = 1 & BIDEN;
 var PARSE_DATES = 0 //| !!BIDEN;
 
 console.log (PARSE_DATES)
@@ -633,37 +633,6 @@ var app = new Vue({
 
                         if (PARSE_LATEST && !PARSE_DATES) {
 
-                            axios.get("https://www.thetrumparchive.com/latest-tweets")
-                                .then(function(response) {
-                                    last_id = response.data[0].id
-                                    last_date = convert(response.data[0].date)
-
-                                    console.log("latest day:", "\"" + data[data.length - 1].date + "\"")
-
-                                    newtweets = response.data.map(function(d) {
-                                        return {
-                                            "date": convert(d.date)
-                                        }
-                                    }).sort(function(a, b) {
-                                        return a.date > b.date
-                                    }) //response.data.reverse()
-                                    newtweets = newtweets.filter(function(d, i) {
-                                        if (data[data.length - 1].date == get_day(d.date) && (i == newtweets.length - 1 || data[data.length - 1].date != get_day(newtweets[i + 1].date))) console.log("last tweet:", "\"" + d.date + "\"");
-                                        return get_day(d.date) > data[data.length - 1].date
-                                    }) //.slice(1)
-
-                                    if (!newtweets.length) console.log("No new tweets");
-                                    else {
-                                        console.log(newtweets.length + " new tweet" + (newtweets.length > 1 ? "s" : ""));
-
-                                        data = data.concat(dailify(newtweets));
-                                        that.all_issues = data;
-                                        get_stats(data)
-                                        update(that)
-                                        console.log(JSON.stringify(newtweets).replace(/\[\s*{}*?]*?/gm, ",\n  {\n    ").replace("}]", "\n  }").replaceAll("\":", "\": ").replaceAll("},{", "\n  },\n  {\n    "))
-                                    }
-
-
                                     function load_last(that) {
 
                                         var frame = document.querySelector('#twitter-widget-0')
@@ -727,12 +696,8 @@ var app = new Vue({
 
                                     };
 
-                                    load_last(that);
+//                                    load_last(that);
 
-
-                                })
-                                .catch((error) => {
-                                    console.log("real CORS", error)
 
                                     function load_tweets(that) {
                                         var frame = document.querySelector('#twitter-widget-0')
@@ -787,10 +752,7 @@ var app = new Vue({
 
                                     };
 
-                                    load_tweets(that);
-
-                                })
-
+                                    load_tweets(that)
 
 
                         }

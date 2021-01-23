@@ -44,6 +44,14 @@
 	background-color: #B2185B;
 }
 
+.insurrection {
+	background-color: #B91E1E;
+}
+
+.h-row:hover .insurrection {
+	background-color: #921818;
+}
+
 .biden {
 	background-color: #4CAF50;
 }
