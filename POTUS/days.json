@@ -133,5 +133,59 @@
     "number": 28,
     "tweeted": true,
     "arc": "biden"
+  },
+  {
+    "date": "2021-01-29",
+    "tweets": 5,
+    "day": "29",
+    "month": "2021-01",
+    "number": 29,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-01-30",
+    "tweets": 3,
+    "day": "30",
+    "month": "2021-01",
+    "number": 30,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-01-31",
+    "tweets": 4,
+    "day": "31",
+    "month": "2021-01",
+    "number": 31,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-01",
+    "tweets": 3,
+    "day": "01",
+    "month": "2021-02",
+    "number": 1,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-02",
+    "tweets": 7,
+    "day": "02",
+    "month": "2021-02",
+    "number": 2,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-03",
+    "tweets": 7,
+    "day": "03",
+    "month": "2021-02",
+    "number": 3,
+    "tweeted": true,
+    "arc": "biden"
   }
 ]
