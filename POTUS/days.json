@@ -187,5 +187,941 @@
     "number": 3,
     "tweeted": true,
     "arc": "biden"
+  },
+  {
+    "date": "2021-02-04",
+    "tweets": 7,
+    "day": "04",
+    "month": "2021-02",
+    "number": 4,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-05",
+    "tweets": 6,
+    "day": "05",
+    "month": "2021-02",
+    "number": 5,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-06",
+    "tweets": 4,
+    "day": "06",
+    "month": "2021-02",
+    "number": 6,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-07",
+    "tweets": 4,
+    "day": "07",
+    "month": "2021-02",
+    "number": 7,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-08",
+    "tweets": 6,
+    "day": "08",
+    "month": "2021-02",
+    "number": 8,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-09",
+    "tweets": 6,
+    "day": "09",
+    "month": "2021-02",
+    "number": 9,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-10",
+    "tweets": 7,
+    "day": "10",
+    "month": "2021-02",
+    "number": 10,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-11",
+    "tweets": 7,
+    "day": "11",
+    "month": "2021-02",
+    "number": 11,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-12",
+    "tweets": 6,
+    "day": "12",
+    "month": "2021-02",
+    "number": 12,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-13",
+    "tweets": 2,
+    "day": "13",
+    "month": "2021-02",
+    "number": 13,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-14",
+    "tweets": 4,
+    "day": "14",
+    "month": "2021-02",
+    "number": 14,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-15",
+    "tweets": 2,
+    "day": "15",
+    "month": "2021-02",
+    "number": 15,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-16",
+    "tweets": 6,
+    "day": "16",
+    "month": "2021-02",
+    "number": 16,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-17",
+    "tweets": 8,
+    "day": "17",
+    "month": "2021-02",
+    "number": 17,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-18",
+    "tweets": 7,
+    "day": "18",
+    "month": "2021-02",
+    "number": 18,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-19",
+    "tweets": 7,
+    "day": "19",
+    "month": "2021-02",
+    "number": 19,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-20",
+    "tweets": 4,
+    "day": "20",
+    "month": "2021-02",
+    "number": 20,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-21",
+    "tweets": 4,
+    "day": "21",
+    "month": "2021-02",
+    "number": 21,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-22",
+    "tweets": 8,
+    "day": "22",
+    "month": "2021-02",
+    "number": 22,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-23",
+    "tweets": 9,
+    "day": "23",
+    "month": "2021-02",
+    "number": 23,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-24",
+    "tweets": 7,
+    "day": "24",
+    "month": "2021-02",
+    "number": 24,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-25",
+    "tweets": 6,
+    "day": "25",
+    "month": "2021-02",
+    "number": 25,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-26",
+    "tweets": 5,
+    "day": "26",
+    "month": "2021-02",
+    "number": 26,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-27",
+    "tweets": 5,
+    "day": "27",
+    "month": "2021-02",
+    "number": 27,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-02-28",
+    "tweets": 3,
+    "day": "28",
+    "month": "2021-02",
+    "number": 28,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-01",
+    "tweets": 6,
+    "day": "01",
+    "month": "2021-03",
+    "number": 1,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-02",
+    "tweets": 8,
+    "day": "02",
+    "month": "2021-03",
+    "number": 2,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-03",
+    "tweets": 6,
+    "day": "03",
+    "month": "2021-03",
+    "number": 3,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-04",
+    "tweets": 5,
+    "day": "04",
+    "month": "2021-03",
+    "number": 4,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-05",
+    "tweets": 5,
+    "day": "05",
+    "month": "2021-03",
+    "number": 5,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-06",
+    "tweets": 8,
+    "day": "06",
+    "month": "2021-03",
+    "number": 6,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-07",
+    "tweets": 3,
+    "day": "07",
+    "month": "2021-03",
+    "number": 7,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-08",
+    "tweets": 7,
+    "day": "08",
+    "month": "2021-03",
+    "number": 8,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-09",
+    "tweets": 4,
+    "day": "09",
+    "month": "2021-03",
+    "number": 9,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-10",
+    "tweets": 8,
+    "day": "10",
+    "month": "2021-03",
+    "number": 10,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-11",
+    "tweets": 21,
+    "day": "11",
+    "month": "2021-03",
+    "number": 11,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-12",
+    "tweets": 8,
+    "day": "12",
+    "month": "2021-03",
+    "number": 12,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-13",
+    "tweets": 3,
+    "day": "13",
+    "month": "2021-03",
+    "number": 13,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-14",
+    "tweets": 3,
+    "day": "14",
+    "month": "2021-03",
+    "number": 14,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-15",
+    "tweets": 8,
+    "day": "15",
+    "month": "2021-03",
+    "number": 15,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-16",
+    "tweets": 5,
+    "day": "16",
+    "month": "2021-03",
+    "number": 16,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-17",
+    "tweets": 7,
+    "day": "17",
+    "month": "2021-03",
+    "number": 17,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-18",
+    "tweets": 11,
+    "day": "18",
+    "month": "2021-03",
+    "number": 18,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-19",
+    "tweets": 8,
+    "day": "19",
+    "month": "2021-03",
+    "number": 19,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-20",
+    "tweets": 2,
+    "day": "20",
+    "month": "2021-03",
+    "number": 20,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-21",
+    "tweets": 5,
+    "day": "21",
+    "month": "2021-03",
+    "number": 21,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-22",
+    "tweets": 3,
+    "day": "22",
+    "month": "2021-03",
+    "number": 22,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-23",
+    "tweets": 13,
+    "day": "23",
+    "month": "2021-03",
+    "number": 23,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-24",
+    "tweets": 10,
+    "day": "24",
+    "month": "2021-03",
+    "number": 24,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-25",
+    "tweets": 11,
+    "day": "25",
+    "month": "2021-03",
+    "number": 25,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-26",
+    "tweets": 6,
+    "day": "26",
+    "month": "2021-03",
+    "number": 26,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-27",
+    "tweets": 2,
+    "day": "27",
+    "month": "2021-03",
+    "number": 27,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-28",
+    "tweets": 3,
+    "day": "28",
+    "month": "2021-03",
+    "number": 28,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-29",
+    "tweets": 7,
+    "day": "29",
+    "month": "2021-03",
+    "number": 29,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-30",
+    "tweets": 4,
+    "day": "30",
+    "month": "2021-03",
+    "number": 30,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-03-31",
+    "tweets": 15,
+    "day": "31",
+    "month": "2021-03",
+    "number": 31,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-01",
+    "tweets": 4,
+    "day": "01",
+    "month": "2021-04",
+    "number": 1,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-02",
+    "tweets": 2,
+    "day": "02",
+    "month": "2021-04",
+    "number": 2,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-03",
+    "tweets": 5,
+    "day": "03",
+    "month": "2021-04",
+    "number": 3,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-04",
+    "tweets": 2,
+    "day": "04",
+    "month": "2021-04",
+    "number": 4,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-05",
+    "tweets": 5,
+    "day": "05",
+    "month": "2021-04",
+    "number": 5,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-06",
+    "tweets": 8,
+    "day": "06",
+    "month": "2021-04",
+    "number": 6,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-07",
+    "tweets": 7,
+    "day": "07",
+    "month": "2021-04",
+    "number": 7,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-08",
+    "tweets": 8,
+    "day": "08",
+    "month": "2021-04",
+    "number": 8,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-09",
+    "tweets": 5,
+    "day": "09",
+    "month": "2021-04",
+    "number": 9,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-10",
+    "tweets": 3,
+    "day": "10",
+    "month": "2021-04",
+    "number": 10,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-11",
+    "tweets": 2,
+    "day": "11",
+    "month": "2021-04",
+    "number": 11,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-12",
+    "tweets": 4,
+    "day": "12",
+    "month": "2021-04",
+    "number": 12,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-13",
+    "tweets": 6,
+    "day": "13",
+    "month": "2021-04",
+    "number": 13,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-14",
+    "tweets": 8,
+    "day": "14",
+    "month": "2021-04",
+    "number": 14,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-15",
+    "tweets": 7,
+    "day": "15",
+    "month": "2021-04",
+    "number": 15,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-16",
+    "tweets": 5,
+    "day": "16",
+    "month": "2021-04",
+    "number": 16,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-17",
+    "tweets": 3,
+    "day": "17",
+    "month": "2021-04",
+    "number": 17,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-18",
+    "tweets": 2,
+    "day": "18",
+    "month": "2021-04",
+    "number": 18,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-19",
+    "tweets": 6,
+    "day": "19",
+    "month": "2021-04",
+    "number": 19,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-20",
+    "tweets": 10,
+    "day": "20",
+    "month": "2021-04",
+    "number": 20,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-21",
+    "tweets": 10,
+    "day": "21",
+    "month": "2021-04",
+    "number": 21,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-22",
+    "tweets": 12,
+    "day": "22",
+    "month": "2021-04",
+    "number": 22,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-23",
+    "tweets": 4,
+    "day": "23",
+    "month": "2021-04",
+    "number": 23,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-24",
+    "tweets": 3,
+    "day": "24",
+    "month": "2021-04",
+    "number": 24,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-25",
+    "tweets": 5,
+    "day": "25",
+    "month": "2021-04",
+    "number": 25,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-26",
+    "tweets": 6,
+    "day": "26",
+    "month": "2021-04",
+    "number": 26,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-27",
+    "tweets": 5,
+    "day": "27",
+    "month": "2021-04",
+    "number": 27,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-28",
+    "tweets": 25,
+    "day": "28",
+    "month": "2021-04",
+    "number": 28,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-29",
+    "tweets": 4,
+    "day": "29",
+    "month": "2021-04",
+    "number": 29,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-04-30",
+    "tweets": 7,
+    "day": "30",
+    "month": "2021-04",
+    "number": 30,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-01",
+    "tweets": 4,
+    "day": "01",
+    "month": "2021-05",
+    "number": 1,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-02",
+    "tweets": 4,
+    "day": "02",
+    "month": "2021-05",
+    "number": 2,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-03",
+    "tweets": 8,
+    "day": "03",
+    "month": "2021-05",
+    "number": 3,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-04",
+    "tweets": 6,
+    "day": "04",
+    "month": "2021-05",
+    "number": 4,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-05",
+    "tweets": 8,
+    "day": "05",
+    "month": "2021-05",
+    "number": 5,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-06",
+    "tweets": 7,
+    "day": "06",
+    "month": "2021-05",
+    "number": 6,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-07",
+    "tweets": 8,
+    "day": "07",
+    "month": "2021-05",
+    "number": 7,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-08",
+    "tweets": 4,
+    "day": "08",
+    "month": "2021-05",
+    "number": 8,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-09",
+    "tweets": 4,
+    "day": "09",
+    "month": "2021-05",
+    "number": 9,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-10",
+    "tweets": 7,
+    "day": "10",
+    "month": "2021-05",
+    "number": 10,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-11",
+    "tweets": 7,
+    "day": "11",
+    "month": "2021-05",
+    "number": 11,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-12",
+    "tweets": 6,
+    "day": "12",
+    "month": "2021-05",
+    "number": 12,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-13",
+    "tweets": 11,
+    "day": "13",
+    "month": "2021-05",
+    "number": 13,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-14",
+    "tweets": 5,
+    "day": "14",
+    "month": "2021-05",
+    "number": 14,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-15",
+    "tweets": 3,
+    "day": "15",
+    "month": "2021-05",
+    "number": 15,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-16",
+    "tweets": 3,
+    "day": "16",
+    "month": "2021-05",
+    "number": 16,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-17",
+    "tweets": 9,
+    "day": "17",
+    "month": "2021-05",
+    "number": 17,
+    "tweeted": true,
+    "arc": "biden"
+  },
+  {
+    "date": "2021-05-18",
+    "tweets": 8,
+    "day": "18",
+    "month": "2021-05",
+    "number": 18,
+    "tweeted": true,
+    "arc": "biden"
   }
 ]

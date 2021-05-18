@@ -58,7 +58,7 @@
                 <div class="buttons" style="display:flex;  justify-content: center; text-align: center; margin-bottom: 8px;">
                     <a :href="REAL_LOCATION + 'POTUS44/'" class="chart-button">Obama</a>
 					<a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button">Trump</a>
-					<a :href="REAL_LOCATION + 'POTUS/'" class="chart-button">Biden</a>
+					<a :href="REAL_LOCATION + 'POTUS/'" class="chart-button" v-cloak v-if="show_defrag">Biden</a>
                 </div>
 
 
