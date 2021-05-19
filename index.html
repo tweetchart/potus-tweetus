@@ -57,7 +57,7 @@
 
                 <div class="buttons" style="display:flex;  justify-content: center; text-align: center; margin-bottom: 8px;">
                     <a :href="REAL_LOCATION + 'POTUS44/'" class="chart-button">Obama</a>
-					<a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button">Trump</a>
+					<a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button">Trump</a> 
 					<a :href="REAL_LOCATION + 'POTUS/'" class="chart-button" v-cloak v-if="show_defrag">Biden</a>
                 </div>
 
@@ -122,7 +122,7 @@
                     <div style="display:flex;align-content:center;justify-content:center;">
                         <h1 class="text-center" style="visibility: hidden;width:706.3px;" v-bind:style="{visibility: 'visible'}">@{{info.series_name}} Tweet Chart</h1>
 
-                        <div style="width:0;display:flex;flex-flow:column;justify-content:center;margin-top:10px;margin-bottom:10px">
+                        <div style="width:0;display:none;flex-flow:column;justify-content:center;margin-top:10px;margin-bottom:10px">
                             <div style="width: 86.17px;transform:translate(-100%); display:flex;justify-content:center">
                                 <div class="fb-like" style="max-height:28px;display: flex;flex-flow:column;justify-content:center;overflow: hidden" v-bind:style="{display: all_issues.length?'flex':'none', overflow: all_issues.length?'visible':'none'}" v-bind:data-href="(info.series_name=='POTUS44'?'https://tweetchart.com/POTUS44':'https://tweetchart.com/realDonaldTrump')" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="false"></div>
 
