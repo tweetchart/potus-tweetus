@@ -56,9 +56,9 @@
             <div style="min-width:744.3px;max-width:0;text-align:center">
 
                 <div class="buttons" style="display:flex;  justify-content: center; text-align: center; margin-bottom: 8px;">
-                    <a :href="REAL_LOCATION + 'POTUS44/'" class="chart-button">Obama</a>
-					<a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button">Trump</a> 
-					<a :href="REAL_LOCATION + 'POTUS/'" class="chart-button" v-cloak v-if="show_defrag">Biden</a>
+                    <a :href="REAL_LOCATION + 'POTUS44/'" class="chart-button" style="display:none" v-bind:style="{display:'default'}">Obama</a>
+					<a :href="REAL_LOCATION + 'realDonaldTrump/'" class="chart-button" style="display:none" v-bind:style="{display:'default'}">Trump</a>
+					<a :href="REAL_LOCATION + 'POTUS/'" class="chart-button" v-cloak v-if="show_defrag" style="display:none" v-bind:style="{display:'default'}">Biden</a>
                 </div>
 
 
@@ -102,7 +102,7 @@
 
 
 
-                <p class="text-center" v-if="!show_defrag && !info.series_name" style="margin-top:10px;text-align:center"><small>↑↑↓↓←→←→BA</small></p>
+                <p class="text-center" v-if="!show_defrag && !info.series_name" style="margin-top:10px;text-align:center;display:none" v-bind:style="{display:'default'}"><small>↑↑↓↓←→←→BA</small></p>
             </div>
 
         </div>
